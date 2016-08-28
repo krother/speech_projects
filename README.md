@@ -19,7 +19,7 @@ The speeches are best executed in a mutually supportive environment: a learners 
 
 (c) 2016 Dr. Kristian Rother
 
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
 See [www.creativecommons.org](https://creativecommons.org) for details.
 
