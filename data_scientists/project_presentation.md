@@ -19,3 +19,7 @@ Your project presentation becomes unique if you include your motivation behind t
 * How did the presenter handle the Q & A session?
 * What could the speaker do differently?
 * Would you hire the speaker?
+
+## Extra Material
+
+* [When is it Good to be Bad?](https://www.youtube.com/watch?v=uW02_GnQKeM) PyCon 2016 talk by Wendy Grus
