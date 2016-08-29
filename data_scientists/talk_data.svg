@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4">
+    <path
+       style="fill:none;stroke:none"
+       d="M 506.65804,512.31926 392.97713,508.43612"
+       id="path3827-6"
+       inkscape:connector-curvature="0" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="752.93431"
+     inkscape:cy="504.79762"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-nodes="true"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3965"
+       width="281.22238"
+       height="178.76248"
+       x="411.41464"
+       y="420.93359"
+       inkscape:export-filename="/home/krother/projects/speechproject/speech_projects/data_scientists/talk_data.png"
+       inkscape:export-xdpi="150.03148"
+       inkscape:export-ydpi="150.03148" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3897"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.89519651,-0.44567165,0.44567165,0.89519651,-154.32117,224.51886)"><flowRegion
+         id="flowRegion3899"><rect
+           id="rect3901"
+           width="228.21428"
+           height="28.214285"
+           x="352.14285"
+           y="545.57648" /></flowRegion><flowPara
+         id="flowPara3903"
+         style="font-size:8px;font-weight:bold;fill:#b6db9a;fill-opacity:1;-inkscape-font-specification:Sans Bold">00100000011111011001</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.85505683,0.51853431,-0.51853431,0.85505683,393.53746,-202.13476)"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b6db9a;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot3905"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3907"><rect
+           y="545.57648"
+           x="352.14285"
+           height="28.214285"
+           width="228.21428"
+           id="rect3909"
+           style="fill:#b6db9a;fill-opacity:1" /></flowRegion><flowPara
+         style="font-size:8px;font-weight:bold;fill:#b6db9a;fill-opacity:1;-inkscape-font-specification:Sans Bold"
+         id="flowPara3911">10000111000110011101</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3913"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.95627393,0.29247255,-0.29247255,0.95627393,221.83855,-152.18685)"><flowRegion
+         id="flowRegion3915"><rect
+           id="rect3917"
+           width="228.21428"
+           height="28.214285"
+           x="352.14285"
+           y="545.57648" /></flowRegion><flowPara
+         id="flowPara3919"
+         style="font-size:8px;font-weight:bold;fill:#91c968;fill-opacity:1;-inkscape-font-specification:Sans Bold">00011111111100010010</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.97769035,-0.21005141,0.21005141,0.97769035,-63.86873,69.514165)"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot3921"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3923"><rect
+           y="545.57648"
+           x="352.14285"
+           height="28.214285"
+           width="228.21428"
+           id="rect3925" /></flowRegion><flowPara
+         style="font-size:8px;font-weight:bold;fill:#91c968;fill-opacity:1;-inkscape-font-specification:Sans Bold"
+         id="flowPara3927">10000100000100011010</flowPara></flowRoot>    <path
+       style="fill:#cccccc;stroke:none"
+       d="m 411.41464,573.66765 281.22241,0 0,26.02839 -281.22241,0 z"
+       id="rect3134"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/krother/projects/speechproject/speech_projects/data_scientists/talk_data.png"
+       inkscape:export-xdpi="150.03148"
+       inkscape:export-ydpi="150.03148" />
+    <g
+       style="stroke:#000000;stroke-width:0.93009982"
+       inkscape:export-ydpi="150.03148"
+       inkscape:export-xdpi="150.03148"
+       inkscape:export-filename="/home/krother/projects/speechproject/speech_projects/data_scientists/talk_data.png"
+       transform="matrix(-1.0750427,0.01542929,0.01542929,1.0750427,1453.8601,183.87055)"
+       id="g4339">
+      <path
+         sodipodi:nodetypes="ssssccs"
+         style="fill:#80b940;fill-opacity:1;stroke:#000000;stroke-width:0.93009982"
+         d="m 844.75662,277.50715 c -2.82542,1.63125 -3.80636,2.68231 -4.72303,5.18938 -0.10302,0.28176 -3.78001,-0.084 -4.09968,1.3151 -0.48465,2.12125 3.12285,3.06796 3.10541,3.389 -0.11376,2.09474 0.49041,3.456 1.61732,5.40786 9.41338,13.00089 24.98123,-0.80598 19.395,-11.19771 -3.09265,-5.35663 -9.93839,-7.19628 -15.29502,-4.10363 z"
+         id="path4343"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\title.png"
+         inkscape:export-xdpi="300.03"
+         inkscape:export-ydpi="300.03" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       d="m 592.81321,499.36741 c -1.11465,0.94936 -17.46723,6.09535 -20.57303,5.00004 -1.2787,-0.45096 12.61037,-8.07852 11.05299,-13.60751 -0.74351,-2.63961 -2.20289,-4.86435 -2.20289,-7.49246 0,-12.34336 17.12938,-22.34963 38.25953,-22.34963 21.13015,0 38.25953,10.00627 38.25953,22.34963 0,12.34335 -17.12938,22.34962 -38.25953,22.34962 -10.30455,0 -19.65763,-2.37972 -26.5366,-6.24969"
+       id="path3046"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssssc"
+       inkscape:export-filename="/home/krother/projects/speechproject/speech_projects/data_scientists/talk_data.png"
+       inkscape:export-xdpi="150.03148"
+       inkscape:export-ydpi="150.03148" />
+    <g
+       id="g3784"
+       transform="matrix(0.45393432,0,0,0.45393432,542.60395,173.90449)"
+       inkscape:export-filename="/home/krother/projects/speechproject/speech_projects/data_scientists/talk_data.png"
+       inkscape:export-xdpi="150.03148"
+       inkscape:export-ydpi="150.03148">
+      <rect
+         y="667.22498"
+         x="150.24364"
+         height="43.469673"
+         width="11.64987"
+         id="rect3008"
+         style="fill:#639232;fill-opacity:1;stroke:#000000;stroke-width:2.20296192;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         style="fill:#c2dfa4;fill-opacity:1;stroke:#000000;stroke-width:2.20296192;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect3778"
+         width="12.089876"
+         height="28.252317"
+         x="170.73175"
+         y="682.66235" />
+      <rect
+         style="fill:#80b940;fill-opacity:1;stroke:#000000;stroke-width:2.20296192;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect3780"
+         width="11.379461"
+         height="54.816021"
+         x="191.79509"
+         y="655.74341" />
+      <rect
+         y="695.54987"
+         x="129.07104"
+         height="15.609246"
+         width="12.578788"
+         id="rect3782"
+         style="fill:#9fcc69;fill-opacity:1;stroke:#000000;stroke-width:2.20296192;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <path
+       style="fill:none;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 506.65804,512.31926 392.97713,508.43612"
+       id="path3827"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#80b940;fill-opacity:1;stroke:none;font-family:Sans"
+       id="text3847"
+       sodipodi:linespacing="125%"
+       transform="matrix(-1,0,0,-1,901.4051,1020.4773)"><textPath
+         xlink:href="#path3827"
+         id="textPath3853"
+         style="fill:#6b9a35;fill-opacity:1"><tspan
+           id="tspan3851"
+           style="font-size:8px;font-weight:bold;fill:#6b9a35;-inkscape-font-specification:Sans Bold;fill-opacity:1"
+           y="465.849"
+           x="355.0625">110011000000011010101001000000</tspan></textPath></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3929"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.89789584,0.44020797,-0.44020797,0.89789584,330.07567,-186.62601)"><flowRegion
+         id="flowRegion3931"><rect
+           id="rect3933"
+           width="228.21428"
+           height="28.214285"
+           x="352.14285"
+           y="545.57648" /></flowRegion><flowPara
+         id="flowPara3935"
+         style="font-size:8px;font-weight:bold;fill:#a2d17e;fill-opacity:1;-inkscape-font-specification:Sans Bold">00010111010100101110</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.98639889,0.16436919,-0.16436919,0.98639889,139.77152,-109.57648)"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot3937"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3939"><rect
+           y="545.57648"
+           x="352.14285"
+           height="28.214285"
+           width="228.21428"
+           id="rect3941" /></flowRegion><flowPara
+         style="font-size:8px;font-weight:bold;fill:#6b9a35;fill-opacity:1;-inkscape-font-specification:Sans Bold"
+         id="flowPara3943">01001010110111110010</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3945"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.99362472,-0.11273828,0.11273828,0.99362472,-16.828611,13.015997)"><flowRegion
+         id="flowRegion3947"><rect
+           id="rect3949"
+           width="228.21428"
+           height="28.214285"
+           x="352.14285"
+           y="545.57648" /></flowRegion><flowPara
+         id="flowPara3951"
+         style="font-size:8px;font-weight:bold;fill:#80b940;fill-opacity:1;-inkscape-font-specification:Sans Bold">01010101000100111001</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.9331924,-0.35937718,0.35937718,0.9331924,-126.58053,160.41646)"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot3953"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3955"><rect
+           y="545.57648"
+           x="352.14285"
+           height="28.214285"
+           width="228.21428"
+           id="rect3957" /></flowRegion><flowPara
+         style="font-size:8px;font-weight:bold;fill:#a2d17e;fill-opacity:1;-inkscape-font-specification:Sans Bold"
+         id="flowPara3959">01010101000100111001</flowPara></flowRoot>    <path
+       style="fill:#80b940;fill-opacity:1;stroke:#000000;stroke-width:1"
+       d="M 506.1875 502.71875 C 502.68641 502.71875 499.84375 505.56141 499.84375 509.0625 C 499.84375 512.56359 502.68641 515.40625 506.1875 515.40625 C 507.197 515.40625 508.15287 515.16978 509 514.75 L 532.65625 539.25 L 520.59375 581.09375 L 538 581.09375 L 543.96875 557.6875 L 549.4375 580.59375 L 564.84375 580.59375 L 556 544.1875 L 575.53125 555.75 L 575.5625 542.875 L 551.625 518.90625 L 539.21875 518.90625 L 512.125 506.84375 C 511.22393 504.44024 508.90565 502.71875 506.1875 502.71875 z "
+       id="path3228"
+       inkscape:export-filename="/home/krother/projects/speechproject/speech_projects/data_scientists/talk_data.png"
+       inkscape:export-xdpi="150.03148"
+       inkscape:export-ydpi="150.03148" />
+  </g>
+</svg>
