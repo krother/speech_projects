@@ -5,11 +5,11 @@
 
 As a Data Scientist, you are a key player connecting the fields of programming, statistics and business thinking. Communicating and presenting data, technologies, results and conclusions is key. This article contains five speech projects to rehearse communicating data science:
 
-1. The Lightning Talk
-2. The Live Demo
-3. The Educational Session
-4. Selling an Idea
-5. The Project Presentation
+1. [The Lightning Talk](https://github.com/krother/speech_projects/blob/master/data_scientists/lightning_talk.md)
+2. [The Live Demo](https://github.com/krother/speech_projects/blob/master/data_scientists/live_demo.md)
+3. [The Educational Session](https://github.com/krother/speech_projects/blob/master/data_scientists/educational_session.md)
+4. [Selling an Idea](https://github.com/krother/speech_projects/blob/master/data_scientists/selling_an_idea.md)
+5. [The Project Presentation](https://github.com/krother/speech_projects/blob/master/data_scientists/project_presentation.md)
 
 
 For your learning sucess, **positive, supportive evaluations** are key. 
