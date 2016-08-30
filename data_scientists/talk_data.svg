@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="talk_data.svg">
   <defs
      id="defs4">
     <path
@@ -32,12 +32,12 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="752.93431"
-     inkscape:cy="504.79762"
+     inkscape:cx="641.27959"
+     inkscape:cy="468.34508"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:object-nodes="true"
+     inkscape:object-nodes="false"
      inkscape:window-width="1301"
      inkscape:window-height="744"
      inkscape:window-x="65"
@@ -202,10 +202,10 @@
          xlink:href="#path3827"
          id="textPath3853"
          style="fill:#6b9a35;fill-opacity:1"><tspan
-           id="tspan3851"
-           style="font-size:8px;font-weight:bold;fill:#6b9a35;-inkscape-font-specification:Sans Bold;fill-opacity:1"
-           y="465.849"
-           x="355.0625">110011000000011010101001000000</tspan></textPath></text>
+   id="tspan3851"
+   style="font-size:8px;font-weight:bold;fill:#6b9a35;-inkscape-font-specification:Sans Bold;fill-opacity:1"
+   y="465.849"
+   x="355.0625">110011000000011010101001000000</tspan></textPath></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3929"
@@ -256,10 +256,7 @@
          style="font-size:8px;font-weight:bold;fill:#a2d17e;fill-opacity:1;-inkscape-font-specification:Sans Bold"
          id="flowPara3959">01010101000100111001</flowPara></flowRoot>    <path
        style="fill:#80b940;fill-opacity:1;stroke:#000000;stroke-width:1"
-       d="M 506.1875 502.71875 C 502.68641 502.71875 499.84375 505.56141 499.84375 509.0625 C 499.84375 512.56359 502.68641 515.40625 506.1875 515.40625 C 507.197 515.40625 508.15287 515.16978 509 514.75 L 532.65625 539.25 L 520.59375 581.09375 L 538 581.09375 L 543.96875 557.6875 L 549.4375 580.59375 L 564.84375 580.59375 L 556 544.1875 L 575.53125 555.75 L 575.5625 542.875 L 551.625 518.90625 L 539.21875 518.90625 L 512.125 506.84375 C 511.22393 504.44024 508.90565 502.71875 506.1875 502.71875 z "
-       id="path3228"
-       inkscape:export-filename="/home/krother/projects/speechproject/speech_projects/data_scientists/talk_data.png"
-       inkscape:export-xdpi="150.03148"
-       inkscape:export-ydpi="150.03148" />
+       d="M 506.1875 502.71875 C 502.68641 502.71875 499.84375 505.56141 499.84375 509.0625 C 499.84375 512.56359 502.68641 515.40625 506.1875 515.40625 C 507.197 515.40625 508.15287 515.16978 509 514.75 L 532.65625 539.25 L 520.59375 581.09375 L 538 581.09375 L 543.96875 557.6875 L 549.4375 580.59375 L 564.84375 580.59375 L 556 544.1875 L 573.59375 550.28125 C 574.5595 552.424 576.6846 553.90625 579.1875 553.90625 C 582.59221 553.90625 585.375 551.15471 585.375 547.75 C 585.375 544.34529 582.59221 541.59375 579.1875 541.59375 C 577.81233 541.59375 576.5567 542.05135 575.53125 542.8125 L 551.625 518.90625 L 539.21875 518.90625 L 512.125 506.84375 C 511.22393 504.44024 508.90565 502.71875 506.1875 502.71875 z "
+       id="path3228" />
   </g>
 </svg>
