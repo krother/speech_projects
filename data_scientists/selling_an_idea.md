@@ -1,6 +1,11 @@
 # Selling an Idea
 
-Persuade a mixed audience (technical and non-technical people) to adopt a certain point of view. It could be to use a certain technology, believe an interpretation or make a decision in a certain way. The project is to engage your audience emotionally in the beginning, and then move quickly to support your point with facts.
+## Your Goal
+
+**Persuade a mixed audience (technical and non-technical people) to adopt a certain point of view.** It could be to use a certain technology, believe an interpretation or even make a financial investment. 
+
+You may already have experienced that in real-world business, this is a frequent type of presentation. At the same time, *selling* is very different from *putting the facts on the table*.
+A viable strategy to sell an idea successfully is to engage your audience emotionally in the beginning, and then move quickly to support your point with facts.
 
 One possible strategy is to use the **AIDA** schema:
 
@@ -13,12 +18,12 @@ The best persuasive presentations use stories. A story could be an authentic per
 
 If you are presenting to decision makers, always leave enough room for them to make the decision to look like their own.
 
-## Time:
+## Time
 
 5-7 minutes
 
 
-## Questions for evaluators:
+## Questions for evaluators
 
 * What did the speaker do to *spark interest* in the audience?
 * What did the speaker do to demonstrate *relevance* of the problem?
@@ -27,6 +32,6 @@ If you are presenting to decision makers, always leave enough room for them to m
 * What could the speaker do differently?
 * Did the speaker convince you?
 
-## Extra Material:
+## Extra Material
 
 * [A sale is a love affair](https://www.youtube.com/watch?v=5ZckGSY5UPA) TEDx talk by Jack Vincent

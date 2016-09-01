@@ -3,7 +3,13 @@
 
 ![](talk_data.png)
 
-As a Data Scientist, you are a key player connecting the fields of programming, statistics and business thinking. Communicating and presenting data, technologies, results and conclusions is key. This article contains five speech projects to rehearse communicating data science:
+## Who is this workbook for?
+
+As a Data Scientist you are asked to present your findings in a convincing and effective manner to various cross-functional team members and decision makers. You are a key player connecting the fields of programming, statistics and business thinking. Communicating and presenting your data analytics results is a important skill that can be trained like a muscle. This workbook contains five exercises to improve your communications skills as a Data Scientist.
+
+## The speech projects
+
+This workbook contains five speech projects that will train your communication skills and excel your data science career:
 
 1. [The Lightning Talk](https://github.com/krother/speech_projects/blob/master/data_scientists/lightning_talk.md)
 2. [The Live Demo](https://github.com/krother/speech_projects/blob/master/data_scientists/live_demo.md)
