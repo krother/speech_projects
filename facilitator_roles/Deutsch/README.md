@@ -46,7 +46,7 @@ Die **Creative Commons FAQ** auf [www.creativecommons.org/share-your-work/licens
 
 ## Wie kann ich helfen, das Dokument zu verbessern?
 
-Editierbare Versionen des Dokuments findest Du unter [Github](http://www.github.com/krother) **UPDATE URL** 
+Editierbare Versionen des Dokuments findest Du unter [Github](https://github.com/krother/speech_projects)
 
 ## Was ist das für ein komisches Textformat?
 
