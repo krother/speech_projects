@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="speech_structure.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="309.47129"
+     inkscape:cy="574.0415"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3039"
+       width="276.19217"
+       height="214.15233"
+       x="35.355339"
+       y="26.047199"
+       inkscape:export-filename="/home/krother/projects/speech_projects/basics/structure.png"
+       inkscape:export-xdpi="200.04457"
+       inkscape:export-ydpi="200.04457" />
+    <rect
+       style="fill:#5bbabf;fill-opacity:1;stroke:#000000;stroke-width:1.81974243999999996"
+       id="rect2985"
+       width="226.27887"
+       height="37.456841"
+       x="57.095116"
+       y="48.246525"
+       inkscape:export-filename="/home/krother/projects/speech_projects/basics/structure.png"
+       inkscape:export-xdpi="200.04457"
+       inkscape:export-ydpi="200.04457" />
+    <rect
+       y="181.97684"
+       x="57.095116"
+       height="37.456841"
+       width="226.27887"
+       id="rect2987"
+       style="fill:#5bbabf;fill-opacity:1;stroke:#000000;stroke-width:1.81974243999999996"
+       inkscape:export-filename="/home/krother/projects/speech_projects/basics/structure.png"
+       inkscape:export-xdpi="200.04457"
+       inkscape:export-ydpi="200.04457" />
+    <rect
+       style="fill:#5bbabf;fill-opacity:1;stroke:#000000;stroke-width:1.81974243999999996"
+       id="rect2989"
+       width="70.990799"
+       height="81.744568"
+       x="57.094223"
+       y="92.967842"
+       inkscape:export-filename="/home/krother/projects/speech_projects/basics/structure.png"
+       inkscape:export-xdpi="200.04457"
+       inkscape:export-ydpi="200.04457" />
+    <rect
+       y="92.958412"
+       x="212.38338"
+       height="81.76342"
+       width="70.990593"
+       id="rect2991"
+       style="fill:#5bbabf;fill-opacity:1;stroke:#000000;stroke-width:1.81974243999999996"
+       inkscape:export-filename="/home/krother/projects/speech_projects/basics/structure.png"
+       inkscape:export-xdpi="200.04457"
+       inkscape:export-ydpi="200.04457" />
+    <rect
+       style="fill:#5bbabf;fill-opacity:1;stroke:#000000;stroke-width:1.81974243999999996"
+       id="rect2993"
+       width="70.990593"
+       height="81.76342"
+       x="134.73891"
+       y="92.958412"
+       inkscape:export-filename="/home/krother/projects/speech_projects/basics/structure.png"
+       inkscape:export-xdpi="200.04457"
+       inkscape:export-ydpi="200.04457" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2995"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.45493561,0,0,0.45493561,20.037372,-58.871743)"
+       inkscape:export-filename="/home/krother/projects/speech_projects/basics/structure.png"
+       inkscape:export-xdpi="200.04457"
+       inkscape:export-ydpi="200.04457"><flowRegion
+         id="flowRegion2997"><rect
+           id="rect2999"
+           width="262.63965"
+           height="50.507626"
+           x="246.47722"
+           y="251.31122" /></flowRegion><flowPara
+         id="flowPara3001">Opening</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.45493561,0,0,0.45493561,20.037372,73.939473)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot3003"
+       xml:space="preserve"
+       inkscape:export-filename="/home/krother/projects/speech_projects/basics/structure.png"
+       inkscape:export-xdpi="200.04457"
+       inkscape:export-ydpi="200.04457"><flowRegion
+         id="flowRegion3005"><rect
+           y="251.31122"
+           x="246.47722"
+           height="50.507626"
+           width="262.63965"
+           id="rect3007" /></flowRegion><flowPara
+         id="flowPara3009">Closing</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3011"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.45493561,0,0,0.45493561,-46.598014,6.8445326)"
+       inkscape:export-filename="/home/krother/projects/speech_projects/basics/structure.png"
+       inkscape:export-xdpi="200.04457"
+       inkscape:export-ydpi="200.04457"><flowRegion
+         id="flowRegion3013"><rect
+           id="rect3015"
+           width="160.61426"
+           height="101.01526"
+           x="246.47722"
+           y="251.31122" /></flowRegion><flowPara
+         id="flowPara3019">Part A </flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.45493561,0,0,0.45493561,30.147565,6.8445326)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot3023"
+       xml:space="preserve"
+       inkscape:export-filename="/home/krother/projects/speech_projects/basics/structure.png"
+       inkscape:export-xdpi="200.04457"
+       inkscape:export-ydpi="200.04457"><flowRegion
+         id="flowRegion3025"><rect
+           y="251.31122"
+           x="246.47722"
+           height="101.01526"
+           width="160.61426"
+           id="rect3027" /></flowRegion><flowPara
+         id="flowPara3029">Part B </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3031"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.45493561,0,0,0.45493561,106.89315,6.8445326)"
+       inkscape:export-filename="/home/krother/projects/speech_projects/basics/structure.png"
+       inkscape:export-xdpi="200.04457"
+       inkscape:export-ydpi="200.04457"><flowRegion
+         id="flowRegion3033"><rect
+           id="rect3035"
+           width="160.61426"
+           height="101.01526"
+           x="246.47722"
+           y="251.31122" /></flowRegion><flowPara
+         id="flowPara3037">Part C </flowPara></flowRoot>    <rect
+       inkscape:export-ydpi="200.04451"
+       inkscape:export-xdpi="200.04451"
+       inkscape:export-filename="/home/krother/projects/speech_projects/basics/struktur.png"
+       y="305.85944"
+       x="37.375648"
+       height="214.15233"
+       width="276.19217"
+       id="rect3008"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       inkscape:export-ydpi="200.04451"
+       inkscape:export-xdpi="200.04451"
+       inkscape:export-filename="/home/krother/projects/speech_projects/basics/struktur.png"
+       y="328.05878"
+       x="59.115425"
+       height="37.456841"
+       width="226.27887"
+       id="rect3010"
+       style="fill:#5bbabf;fill-opacity:1;stroke:#000000;stroke-width:1.81974243999999996" />
+    <rect
+       inkscape:export-ydpi="200.04451"
+       inkscape:export-xdpi="200.04451"
+       inkscape:export-filename="/home/krother/projects/speech_projects/basics/struktur.png"
+       style="fill:#5bbabf;fill-opacity:1;stroke:#000000;stroke-width:1.81974243999999996"
+       id="rect3012"
+       width="226.27887"
+       height="37.456841"
+       x="59.115425"
+       y="461.78909" />
+    <rect
+       inkscape:export-ydpi="200.04451"
+       inkscape:export-xdpi="200.04451"
+       inkscape:export-filename="/home/krother/projects/speech_projects/basics/struktur.png"
+       y="372.78009"
+       x="59.114532"
+       height="81.744568"
+       width="70.990799"
+       id="rect3014"
+       style="fill:#5bbabf;fill-opacity:1;stroke:#000000;stroke-width:1.81974243999999996" />
+    <rect
+       inkscape:export-ydpi="200.04451"
+       inkscape:export-xdpi="200.04451"
+       inkscape:export-filename="/home/krother/projects/speech_projects/basics/struktur.png"
+       style="fill:#5bbabf;fill-opacity:1;stroke:#000000;stroke-width:1.81974243999999996"
+       id="rect3016"
+       width="70.990593"
+       height="81.76342"
+       x="214.40367"
+       y="372.77066" />
+    <rect
+       inkscape:export-ydpi="200.04451"
+       inkscape:export-xdpi="200.04451"
+       inkscape:export-filename="/home/krother/projects/speech_projects/basics/struktur.png"
+       y="372.77066"
+       x="136.7592"
+       height="81.76342"
+       width="70.990593"
+       id="rect3018"
+       style="fill:#5bbabf;fill-opacity:1;stroke:#000000;stroke-width:1.81974243999999996" />
+    <flowRoot
+       inkscape:export-ydpi="200.04451"
+       inkscape:export-xdpi="200.04451"
+       inkscape:export-filename="/home/krother/projects/speech_projects/basics/struktur.png"
+       transform="matrix(0.45493561,0,0,0.45493561,14.460621,220.94051)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot3020"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3022"><rect
+           y="251.31122"
+           x="246.47722"
+           height="50.507626"
+           width="262.63965"
+           id="rect3024" /></flowRegion><flowPara
+         id="flowPara3026">Einleitung</flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="200.04451"
+       inkscape:export-xdpi="200.04451"
+       inkscape:export-filename="/home/krother/projects/speech_projects/basics/struktur.png"
+       xml:space="preserve"
+       id="flowRoot3028"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.45493561,0,0,0.45493561,22.057677,353.75172)"><flowRegion
+         id="flowRegion3030"><rect
+           id="rect3032"
+           width="262.63965"
+           height="50.507626"
+           x="246.47722"
+           y="251.31122" /></flowRegion><flowPara
+         id="flowPara3034">Schluß</flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="200.04451"
+       inkscape:export-xdpi="200.04451"
+       inkscape:export-filename="/home/krother/projects/speech_projects/basics/struktur.png"
+       transform="matrix(0.45493561,0,0,0.45493561,-44.577709,286.65678)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot3036"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3038"><rect
+           y="251.31122"
+           x="246.47722"
+           height="101.01526"
+           width="160.61426"
+           id="rect3040" /></flowRegion><flowPara
+         id="flowPara3042">Teil A</flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="200.04451"
+       inkscape:export-xdpi="200.04451"
+       inkscape:export-filename="/home/krother/projects/speech_projects/basics/struktur.png"
+       xml:space="preserve"
+       id="flowRoot3044"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.45493561,0,0,0.45493561,32.16787,286.65678)"><flowRegion
+         id="flowRegion3046"><rect
+           id="rect3048"
+           width="160.61426"
+           height="101.01526"
+           x="246.47722"
+           y="251.31122" /></flowRegion><flowPara
+         id="flowPara3050">Teil B</flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="200.04451"
+       inkscape:export-xdpi="200.04451"
+       inkscape:export-filename="/home/krother/projects/speech_projects/basics/struktur.png"
+       transform="matrix(0.45493561,0,0,0.45493561,108.91346,286.65678)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot3052"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3054"><rect
+           y="251.31122"
+           x="246.47722"
+           height="101.01526"
+           width="160.61426"
+           id="rect3056" /></flowRegion><flowPara
+         id="flowPara3058">Teil C </flowPara></flowRoot>  </g>
+</svg>

@@ -1,8 +1,7 @@
 
-# Ämter beim Clubabend
+# Grundlagen der Redekunst
 
-Dieses Dokument beschreibt die Ämter beim Treffen eines Redeclubs. Wir verwenden sie in unserem Club, den Spreerednern ([www.spreeredner.de](http://www.spreeredner.de)) geschrieben. Wir hoffen, daß sie auch in anderen Redevereinigungen nützlich sind.
-
+Dieses Dokument beschreibt sieben Rede- und Bewertungsprojekte, die Du in Deinem Redeclub durchführen kannst. Wir hoffen, daß in vielerlei Redevereinigungen nützlich sind.
 
 ## Lizenz
 
@@ -13,8 +12,8 @@ Details unter [www.creativecommons.org](https://creativecommons.org).
 
 ## Autoren
 
-Jörg Würster, Barbara Strauß, Harald von Treuenfels, Jasmin Touati, Kristian Rother, Raimo Graf, Sascha Goldmann, Schorsch Tschürtz
-
+Die Autoren der Projektbeschreibungen sind:
+Jörg Würster, Barbara Strauß, Harald von Treuenfels, Jasmin Touati, Kristian Rother, Raimo Graf, Sascha Goldmann und Schorsch Tschürtz.
 
 ## Darf ich die Inhalte verwenden oder verändern?
 

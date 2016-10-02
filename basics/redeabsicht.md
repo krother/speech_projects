@@ -59,10 +59,10 @@ In diesem Projekt geht es darum, Dich für eine klare Redeabsicht zu entscheiden
 
 5-7 Minuten
 
-## Fragen für den Redebewerter
+## Fragen für Redebewerter/innen
 
 * Welche Absicht hat die Rede Deiner Meinung nach erfüllt?
-* War das die Absicht, die der Redner im Sinn hatte?
+* War das die Absicht, die der Redner/die Rednerin im Sinn hatte?
 * Welche Teile der Rede haben die Redeabsicht unterstützt?
 * Welche Teile der Rede haben von der Redeabsicht abgelenkt?
 * Wie hätte die Redeabsicht noch klarer sein können?
@@ -70,4 +70,4 @@ In diesem Projekt geht es darum, Dich für eine klare Redeabsicht zu entscheiden
 
 ## Autoren
 
-Basierend auf Texten von Magdalena Rother und Ulrike Münzner. Bearbeitet von Kristian Rother. Verfügbar unter den Bedingungen der Creative Commons CC-BY-NC-SA Lizenz 4.0.
+Basierend auf Texten von Magdalena Rother und Ulrike Münzner. Bearbeitet von Kristian Rother. Bilder von Kristian Rother. Verfügbar unter den Bedingungen der Creative Commons CC-BY-NC-SA Lizenz 4.0.
