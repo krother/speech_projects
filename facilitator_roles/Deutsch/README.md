@@ -56,4 +56,4 @@ Wenn Du DOCX, HTML oder LaTeX erzeugen möchtest, geht das mit **pandoc** ([www.
 
 ## Kann ich Euch kontaktieren falls ich Fragen habe?
 
-Schicke eine e-Mail an `kristian@spreeredner.de`
+Schicke eine e-Mail an `krother@academis.eu`
