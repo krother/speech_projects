@@ -8,7 +8,7 @@
 * [Speaking Basics](speaking_basics/README.md)
   * [Speech Structure (German)](speaking_basics/struktur.md)
   * [Speech Purpose](speaking_basics/speech_purpose.md)
-  * [Rhetorical Devices (German)](rhetorische_stilmittel.md)
+  * [Rhetorical Devices (German)](speaking_basics/rhetorische_stilmittel.md)
   * Voice [to be written]
   * Body Language [to be written]
 * [Meeting Facilitation](meeting_facilitation/README.md)
