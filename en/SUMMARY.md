@@ -2,6 +2,9 @@
 # Speech Projects
 
 * [Speech Projects](README.md)
+* [Easy Speech Projects](easy_speeches/README.md)
+  * [Things You like](easy_speeches/things_you_like.md)
+  * [Introduce Yourself](easy_speeches/introduce_yourself.md)
 * [Meeting Facilitation](meeting_facilitation/README.md)
   * [Chairperson](meeting_facilitation/chairperson.md)
   * [Impromptu Speech Moderator](meeting_facilitation/impromptu_moderator.md)
