@@ -5,6 +5,12 @@
 * [Easy Speech Projects](easy_speeches/README.md)
   * [Things You like](easy_speeches/things_you_like.md)
   * [Introduce Yourself](easy_speeches/introduce_yourself.md)
+* [Speaking Basics](speaking_basics/README.md)
+  * [Speech Structure](speaking_basics/struktur.md)
+  * [Speech Purpose](speaking_basics/speech_purpose.md)
+  * [Rhetorical Devices](rhetorische_stilmittel.md)
+  * Voice [to be written]
+  * Body Language [to be written]
 * [Meeting Facilitation](meeting_facilitation/README.md)
   * [Chairperson](meeting_facilitation/chairperson.md)
   * [Impromptu Speech Moderator](meeting_facilitation/impromptu_moderator.md)
