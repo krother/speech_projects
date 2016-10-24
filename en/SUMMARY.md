@@ -6,9 +6,9 @@
   * [Things You like](easy_speeches/things_you_like.md)
   * [Introduce Yourself](easy_speeches/introduce_yourself.md)
 * [Speaking Basics](speaking_basics/README.md)
-  * [Speech Structure](speaking_basics/struktur.md)
+  * [Speech Structure (German)](speaking_basics/struktur.md)
   * [Speech Purpose](speaking_basics/speech_purpose.md)
-  * [Rhetorical Devices](rhetorische_stilmittel.md)
+  * [Rhetorical Devices (German)](rhetorische_stilmittel.md)
   * Voice [to be written]
   * Body Language [to be written]
 * [Meeting Facilitation](meeting_facilitation/README.md)
@@ -24,4 +24,7 @@
   * [The Educational Session](data_speeches/educational_session.md)
   * [Selling an Idea](data_speeches/selling_an_idea.md)
   * [The Project Presentation](data_speeches/project_presentation.md)
+* [Building Multi-cultural Awareness](multi_cultural_awareness/README.md)
+  * [Is Your Body Multi-lingual?](multi_cultural_awareness/is_your_body_multi_lingual.md)
+  * [Where are you standing (German)?](multi_cultural_awareness/wie_stehst_du_dazu.md)
 * [Frequently Asked Questions](faq.md)
