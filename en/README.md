@@ -27,19 +27,30 @@ The speeches are best held in a mutually supportive environment, e.g. a course, 
 
 See the subfolders for speech projects targeted to specific audiences.
 
+## Authors
+
+Contribtions to this manual were made by:
+
+Jörg Würster, Barbara Strauß, Harald von Treuenfels, Jasmin Touati, Raimo Graf, Sascha Goldmann, Schorsch Tschürtz, Armando Cristofori, Barbara Bosch and Kristian Rother. Edited by Kristian Rother.
+
 ## License
 
-Unless stated otherwise in the README.md file for a given folder, the content is licensed as follows:
+Please see individual sections for a detailed list of authors.
 
-(c) 2016 Dr. Kristian Rother
-
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-**and** a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+Unless stated otherwise, the contents are licensed a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 See [www.creativecommons.org](https://creativecommons.org) for details.
 
 
-## Contact
+## Contributing
 
-krother@academis.eu
+This document is work in progress. If you would like to contribute, you are invited to:
+
+* send feedback how you used the material.
+* sign up for e-mail updates.
+* translate a project.
+* write a new project from scratch.
+
+For any of the above, contact **Kristian Rother** (`krother@academis.eu`)
+
 
