@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3329"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 5">
+  <defs
+     id="defs3331" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="220.59785"
+     inkscape:cy="600.89665"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-nodes="true"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3334">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4383"
+       width="760.01379"
+       height="540.8241"
+       x="-4.2926049"
+       y="1.2911198"
+       inkscape:export-filename="/home/krother/projects/speech_projects/banner.png"
+       inkscape:export-xdpi="80.190002"
+       inkscape:export-ydpi="80.190002" />
+    <path
+       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:15.16523265999999914;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m -4.2926049,1.2911198 0,540.8240702 760.0137949,0 0,-540.8240702 -760.0137949,0 z M 375.70019,38.297544 c 186.57763,0 337.85286,104.510386 337.85286,233.405616 0,128.89523 -151.27523,233.3774 -337.85286,233.3774 -186.57763,0 -337.824651,-104.48217 -337.824651,-233.3774 0,-128.89523 151.247021,-233.405616 337.824651,-233.405616 z"
+       id="rect3552"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/krother/projects/speech_projects/banner.png"
+       inkscape:export-xdpi="80.190002"
+       inkscape:export-ydpi="80.190002" />
+    <g
+       id="g4363"
+       inkscape:export-filename="/home/krother/projects/speech_projects/banner.png"
+       inkscape:export-xdpi="80.190002"
+       inkscape:export-ydpi="80.190002">
+      <path
+         style="fill:#ff5555;fill-opacity:1;stroke:#000000;stroke-width:2"
+         d="m 514.74042,319.31208 c 9.233,0 16.7206,7.4876 16.7206,16.7206 0,9.233 -7.4877,16.7206 -16.7207,16.7206 -9.2329,0 -16.7096,-7.4876 -16.7096,-16.7206 0,-9.233 7.4767,-16.7206 16.7097,-16.7206 z m -58.7614,70.2242 50.0963,-35.1828 17.5588,0 49.86775,35.1828 0,20.6505 -40.61485,-20.3022 17.09071,52.4369 -24.62361,0 -10.6138,-33.0819 -10.6136,33.0819 -24.6236,0 17.0907,-52.4369 -40.6148,20.3022 z"
+         id="path4130"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/krother/Desktop/TLI_pictures/green.png"
+         inkscape:export-xdpi="150.87215"
+         inkscape:export-ydpi="150.87215"
+         sodipodi:nodetypes="ssssscccccccccccccc" />
+      <path
+         sodipodi:nodetypes="ssssscccccccccccccc"
+         inkscape:export-ydpi="150.87215"
+         inkscape:export-xdpi="150.87215"
+         inkscape:export-filename="/home/krother/Desktop/TLI_pictures/green.png"
+         inkscape:connector-curvature="0"
+         id="path4132"
+         d="m 251.89431,316.9031 c 9.233,0 16.7206,7.4876 16.7206,16.7206 0,9.233 -7.4876,16.7206 -16.7206,16.7206 -9.233,0 -16.7096,-7.4876 -16.7096,-16.7206 0,-9.233 7.4767,-16.7206 16.7096,-16.7206 z m -58.7614,70.2242 50.0964,-35.1828 17.5587,0 49.8678,35.1828 0,20.6505 -40.6148,-20.3022 17.0906,52.4369 -24.6236,0 -10.6137,-33.0819 -10.6136,33.0819 -24.6237,0 17.0907,-52.4369 -40.6148,20.3022 z"
+         style="fill:#ff7f2a;fill-opacity:1;stroke:#000000;stroke-width:2" />
+      <path
+         style="fill:#4093b9;fill-opacity:1;stroke:#000000;stroke-width:2"
+         d="m 382.65405,272.18665 c -9.233,0 -16.7205,7.4876 -16.7205,16.7206 0,9.233 7.4876,16.7206 16.7206,16.7206 9.233,0 16.7096,-7.4876 16.7096,-16.7206 0,-9.233 -7.4767,-16.7206 -16.7097,-16.7206 z m 58.7615,70.2242 -50.0964,-35.1828 -17.5588,0 -49.8677,35.1828 0,20.6505 40.6148,-20.3022 -17.0907,52.4369 24.6237,0 10.6137,-33.0819 10.6136,33.0819 24.6236,0 -17.0906,-52.4369 40.6148,20.3022 z"
+         id="path4136"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/krother/Desktop/TLI_pictures/green.png"
+         inkscape:export-xdpi="150.87215"
+         inkscape:export-ydpi="150.87215"
+         sodipodi:nodetypes="ssssscccccccccccccc" />
+      <path
+         sodipodi:nodetypes="sssssss"
+         inkscape:connector-curvature="0"
+         id="path4340"
+         d="m 322.85715,240.21932 c 0,33.53158 -50.52786,60.71429 -112.85714,60.71429 -6.59262,0 1.23249,26.83875 -5.05025,26.25519 -5.64108,-0.52396 -25.42449,-28.41606 -30.74564,-29.37275 -44.78316,-8.05155 -77.061253,-30.79626 -77.061253,-57.59673 0,-33.53157 50.527863,-60.71428 112.857143,-60.71428 62.32928,0 112.85714,27.18271 112.85714,60.71428 z"
+         style="fill:#ff7f2a;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+      <flowRoot
+         transform="translate(1.4285716,47.14286)"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot4332"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4334"><rect
+             y="169.50504"
+             x="117.14286"
+             height="78.571426"
+             width="204.28572"
+             id="rect4336" /></flowRegion><flowPara
+           style="font-size:20px"
+           id="flowPara4338">I want to warm up my audience</flowPara></flowRoot>      <path
+         sodipodi:nodetypes="sssssss"
+         inkscape:connector-curvature="0"
+         style="fill:#ff5555;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+         d="m 654.28572,223.07646 c 0,26.41132 -31.34751,48.8838 -75.1184,57.23673 -5.67943,1.08382 -26.56802,31.92993 -32.62442,32.51608 -6.52711,0.63171 1.75088,-29.03852 -5.11432,-29.03852 -62.32928,0 -112.85714,-27.18271 -112.85714,-60.71429 0,-33.53157 50.52786,-60.71428 112.85714,-60.71428 62.32928,0 112.85714,27.18271 112.85714,60.71428 z"
+         id="path4343" />
+      <path
+         sodipodi:nodetypes="sssssss"
+         id="path4345"
+         d="m 468.57143,125.93362 c 0,26.24608 -30.9565,48.60245 -74.29834,57.0783 -6.35503,1.24278 -10.83348,49.33 -17.66252,49.94444 -6.09933,0.54879 -14.50724,-46.30845 -20.89628,-46.30845 -62.32928,0 -112.85714,-27.18271 -112.85714,-60.71429 0,-33.531571 50.52786,-60.714285 112.85714,-60.714285 62.32928,0 112.85714,27.182714 112.85714,60.714285 z"
+         style="fill:#4093b9;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4347"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         transform="translate(145.71429,-71.428568)"><flowRegion
+           id="flowRegion4349"><rect
+             id="rect4351"
+             width="204.28572"
+             height="78.571426"
+             x="117.14286"
+             y="169.50504" /></flowRegion><flowPara
+           id="flowPara4353"
+           style="font-size:20px">I want to speak to an expert audience</flowPara></flowRoot>      <flowRoot
+         transform="translate(332.85714,27.14286)"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot4355"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4357"><rect
+             y="169.50504"
+             x="117.14286"
+             height="78.571426"
+             width="204.28572"
+             id="rect4359" /></flowRegion><flowPara
+           style="font-size:20px"
+           id="flowPara4361">I want to try something new</flowPara></flowRoot>    </g>
+  </g>
+</svg>
