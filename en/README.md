@@ -21,6 +21,7 @@ It is a simple three-step process:
 2. Give the speech for one of the projects.
 3. Collect feedback by someone who read the project description.
 
+
 ## Where to speak?
 
 The speeches are best held in a mutually supportive environment, e.g. a course, a learners group or a speaking network, such as [Toastmasters International](http://www.toastmasters.org) or [Agora Speakers](http://www.agoraspeakers.org). As long as you make sure you have supportive people for feedback around, it can work almost anywhere.
