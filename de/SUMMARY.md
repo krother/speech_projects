@@ -15,3 +15,6 @@
   * [Sprachstilbeobachter](moderation/sprachstilbeobachter.md)
   * [Füllwortzähler](moderation/fuellwortzaehler.md)
   * [Zuhörer](moderation/zuhoerer.md)
+* [Multikulturelle Achtsamkeit]
+  * [Wie stehst Du dazu?](multikulti/wie_stehst_du_dazu.md)
+  
