@@ -3,7 +3,7 @@
 
 **von Barbara Bosch**
 
-## Ziele
+## Ziel
 
 Moderiere eine Übung, welche die TeilnehmerInnen aktiviert, ins Gespräch miteinander bringt und für kulturelle Vielfalt und Persönlichkeitsunterschiede sensibilisiert.
 
@@ -12,18 +12,18 @@ Moderiere eine Übung, welche die TeilnehmerInnen aktiviert, ins Gespräch mitei
 
 Die Übung gliedert sich in 4 Abschnitte
 
-1. Erklärung der ersten Aufgabe
+1. Erklärung der Aufgabe
 2. Vorlesen der Aussagen und Verorten/Aufstellen entlang einer Linie
 3. Austausch in Gruppen
 4. Abschlussbemerkung
 
-### Erklärung der ersten Aufgabe
+### Erklärung der Aufgabe
 
 Der/die ModeratorIn erklärt der Gruppe, dass er/sie gleich einige Aussagen vorlesen wird. Die TeilnehmerInnen sollen sich auf einer gedachten Linie im Raum aufstellen. Die Position hängt davon ab, inwieweit sie der jeweiligen Aussage zustimmen. Ganz rechts aufstellen bedeutet *der Aussage voll und ganz zustimmen*, ganz links bedeutet *gar nicht zustimmen*. Wer teilweise zustimmt oder eher nicht zustimmt, kann sich dementsprechend auf der Linie aufstellen.
 
 Für diese Übung braucht man etwas Platz.
 
-### Mögliche Aussagen
+### Aussagen
 
 * *"**Hierarchien** sind unverzichtbar, weil ohne sie nur Chaos herrschen würde."*
 * *"**Smalltalk** am Anfang eines Meetings ist überflüssig und raubt nur Zeit."*
@@ -31,7 +31,7 @@ Für diese Übung braucht man etwas Platz.
 * *"Man zeigt seinem Gegenüber **Respekt**, indem man ihm direkt in die Augen schaut."*
 * *"**Religion und Politik** sind **Tabuthemen**, über die man nicht mit Fremden spricht."*
 * *"Wenn man eine **Einladung** erhält, ist es höflich 'vielleicht' zu sagen, auch wenn man weiß, dass man keine Lust/Zeit hat, dorthin zu gehen."*
-* *"Wenn ich eine Verabredung um 15 Uhr habe und die andere Person um 15:10 Uhr erscheint, ohne mich vorher über die **Verspätung** informiert zu haben, ist das unhöflich."*
+* *"Wenn du eine Verabredung um 15 Uhr hast und die andere Person um 15:10 Uhr erscheint, ohne dich vorher über die **Verspätung** informiert zu haben, ist das unhöflich."*
 
 ### Austausch in Gruppen
 
@@ -41,13 +41,13 @@ Als Variante kann man auch nur eine Aussage nehmen und danach die TeilnehmerInne
 
 ### Abschluss
 
-Als Abschluss-Debriefing kann die/der ModeratorIn darauf aufmerksam machen, dass es kein "richtig" oder "falsch" bei diesen Aussagen gibt, und dass die Vielfalt der Perspektiven in unserer unterschiedlichen kulturellen Prägung und unseren Persönlichkeiten begründet ist.
+Abschließend weist die/der ModeratorIn darauf hin, dass es kein "richtig" oder "falsch" bei diesen Aussagen gibt, und dass die Vielfalt der Perspektiven in unserer unterschiedlichen kulturellen Prägung und unseren unterschiedlichen Persönlichkeiten begründet ist.
 
 ## Zeit
 
-10-25 Minuten(?)
+10-25 Minuten
 
-## Hinweise für BewerterInnen
+## Fragen für die BewerterInnen
 
 * Was hat der/die ModeratorIn gut gemacht (bitte konkrete Beispiele nennen)?
 * Waren die Arbeitsaufträge an die Gruppe klar formuliert? Wodurch wurde das deutlich?
