@@ -15,6 +15,8 @@
   * [Sprachstilbeobachter](moderation/sprachstilbeobachter.md)
   * [Füllwortzähler](moderation/fuellwortzaehler.md)
   * [Zuhörer](moderation/zuhoerer.md)
+* [Teamarbeit]
+  * [Die NASA-Mondlandung](teamarbeit/mondlandung.md)
 * [Multikulturelle Achtsamkeit]
   * [Wie stehst Du dazu?](multikulti/wie_stehst_du_dazu.md)
   
