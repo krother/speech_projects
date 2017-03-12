@@ -50,3 +50,61 @@ The workshop consists of the following steps:
 * if you are not that experienced as a facilitator, have someone signal the time to you as well.
 * if there are less participants than roles, leave some of them out. *Serving multiple roles is not beneficial, because the evaluators won't focus that well.*
 
+
+## Hints for the Evaluation Roles
+
+Here are a few hints for the *evaluators*. You might provide these e.g. on the back sides of the cards.
+
+### Voice
+
+* was the speech easy to understand?
+* did the pitch vary during the speech?
+* how did the speaking melody match the content?
+
+### Eye contact
+
+* did the speaker build eye contact?
+* were all people in the room looked at?
+* was eye contact with you volatile or unpleasantly intense?
+
+### Structure
+
+* was there a discernible opening and closing?
+* how many sub-parts did the main part consist of?
+* how were transitions between parts made apparent?
+
+### Wording
+
+* was the speech correct from a grammatical point of view?
+* what examples can you give for successful choice of words?
+* in which moments could the vocabulary be improved?
+
+### Timing
+
+* did the speech stick to the time frame?
+* how long were the parts of the speech in comparison?
+* did you find examples for precise timing?
+
+### Body language
+
+* what gestures did you observe during the speech?
+* how well did they fit to the speech?
+* how did the speaker utilize the available space?
+
+### Talking speed
+
+* did the talking speed fit to the speech?
+* did the talking speed vary?
+* how were pauses used?
+
+### Rhetoric devices
+
+* how would you describe the style of the speech?
+* which remarkable points did you notice?
+* did you note any rhetoric devices?
+
+### Tension
+
+* where in the speech were you surprised?
+* did the speech build up to a climax?
+* which moments did you find particularly engaging?
