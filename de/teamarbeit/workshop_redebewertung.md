@@ -49,3 +49,62 @@ Der Workshop besteht aus folgenden Schritten:
 * achte unbedingt darauf, daß die vorher vereinbarte Redezeit eingehalten wird.
 * wenn Du als Moderator nicht so erfahren bist, laß auch Dir die Zeit anzeigen.
 * wenn weniger Teilnehmer als Rollen da sind, laßt einfach einige weg. *Doppelbesetzungen sind kontraproduktiv, da die Bewerter sich dann nicht so gut konzentrieren können!*
+
+
+## Hinweise zu den Bewertungsrollen
+
+Hier sind einige Hinweise für die *Bewerter*. Du kannst diese gerne z.B. auf die Rückseiten der Karten schreiben.
+
+### Stimme
+
+* war die Rede gut zu verstehen?
+* wurde die Stimmhöhe variiert?
+* wie hat die Stimmmelodie zum Inhalt gepaßt?
+
+### Blickkontakt
+
+* hat der Redner einen Blickkontakt aufgebaut?
+* wurden alle Personen im Raum angesehen?
+* war der Blickkontakt mit Dir flüchtig oder unangenehm lang?
+
+### Struktur
+
+* Gab es einen erkennnbaren Anfangs- und Schlußteil?
+* aus wie vielen Unterpunkten bestand der Hauptteil?
+* wie wurden die Übergänge zwischen den Teilen deutlich gemacht?
+
+### Wortwahl
+
+* war die Rede grammatisch korrekt?
+* was für Beispiele für gelungene Wortwahl findest Du?
+* an welchen Stellen könnte der Wortreichtum verbessert werden?
+
+### Timing
+
+* hat die Rede den Zeitrahmen eingehalten?
+* wie lang waren die Teile der Rede im Vergleich?
+* gab es Beispiele für besonders gutes Timing?
+
+### Körpersprache
+
+* was für Gesten kamen in der Rede vor?
+* wie haben diese zur Rede gepaßt?
+* wie hat der Redner den Raum genutzt?
+
+### Sprechtempo
+
+* hat das Sprechtempo zur Rede gepasst?
+* wurde das Sprechtempo variiert?
+* wie wurden Pausen eingesetzt?
+
+### Stilmittel
+
+* wie würdest Du den Stil der Rede beschreiben?
+* was für besondere Stellen hast Du bemerkt?
+* hast Du rhetorische Stilmittel bemerkt?
+
+### Spannung
+
+* gab es überraschende Wendungen in der Rede?
+* gab es eine Spannungskurve?
+* welche Momente fandest Du besonders spannend?
