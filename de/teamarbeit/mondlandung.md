@@ -9,6 +9,8 @@ Das NASA-Weltraumspiel gilt mittlerweile als Klassiker unter den Rollen- und Pla
 
 45-90 Minuten
 
+## Durchführung
+
 Die Durchführung besteht aus folgenden Schritten:
 
 1. Die Ausganssituation beschreiben
@@ -46,7 +48,7 @@ Dabei sollen diverse Spielregeln beachtet werden, wie beispielsweise ein freundl
 
 ## Gegenstände
 
-Für folgende Ausrüstungsgegenstände – hier in der meistverbreiteten Reihenfolge auf dem Spielbogen – sollen die Teilnehmer zunächst eine eigene Rangfolge und danach noch einmal in der Gruppe eine gemeinsame Rangfolge festlegen:
+Für folgende Ausrüstungsgegenstände - hier in der meistverbreiteten Reihenfolge auf dem Spielbogen - sollen die Teilnehmer zunächst eine eigene Rangfolge und danach noch einmal in der Gruppe eine gemeinsame Rangfolge festlegen:
 
 * Streichhölzer
 * Lebensmittelkonzentrat
@@ -90,11 +92,18 @@ Die im Folgenden dargestellte Musterlösung soll tatsächlich von mehreren Exper
 
 Um die unterschiedlichen Ergebnisse besser vergleichen und bewerten zu können, wird für jeden Gegenstand die Differenz von dem vergebenen Rangplatz zu dem richtigen Rangplatz berechnet und als absolute Zahl notiert.
 
-    Beispiel: Ein Teilnehmer hat die Streichhölzer auf den 10. Rangplatz und den Sternatlas auf den 6. Rangplatz gesetzt. Die richtige Lösung ist für die Streichhölzer der 15. Rangplatz und für den Sternatlas der 3. Rangplatz. Die Differenz zwischen der Einschätzung und der richtigen Lösung beträgt also 5 bzw. 3 (Streichhölzer: 15 − 10 = 5 und Sternatlas: 6 − 3 = 3).
+    Beispiel:
+    Ein Teilnehmer hat die Streichhölzer auf den 10. Rangplatz und 
+    den Sternatlas auf den 6. Rangplatz gesetzt. Die richtige 
+    Lösung ist für die Streichhölzer der 15. Rangplatz 
+    und für den Sternatlas der 3. Rangplatz. Die Differenz 
+    zwischen der Einschätzung und der richtigen Lösung 
+    beträgt also 5 bzw. 3 
+    (Streichhölzer: 15 - 10 = 5 und Sternatlas: 6 - 3 = 3).
 
 Schließlich werden alle Differenzen addiert, und je niedriger die Summe der 15 Differenzen ist, desto besser ist die Lösung zu bewerten. Dieses Bewertungssystem wird in gleicher Weise zur Auswertung der Gruppenlösungen angewendet.
 
-Manchmal wird in einer Spielvariante auch noch dieses Bewertungssystem für einen Vergleich zwischen der Einzellösung und der Teamlösung angewendet. In diesem Fall kann es vorkommen, dass einige Teilnehmer – durch das zusätzliche Bewertungssystem beeinflusst – neue, unerwünschte Ziele für den Spielverlauf definieren.
+Manchmal wird in einer Spielvariante auch noch dieses Bewertungssystem für einen Vergleich zwischen der Einzellösung und der Teamlösung angewendet. In diesem Fall kann es vorkommen, dass einige Teilnehmer - durch das zusätzliche Bewertungssystem beeinflusst - neue, unerwünschte Ziele für den Spielverlauf definieren.
 
 ## Ranking
 
@@ -115,4 +124,4 @@ Dieser Artikel ist unter den Bedingungen der **Creative Commons Attribution/Shar
 
 ## Links
 
-[Bogen zum Herunerladen](http://www.bko-kfm.de/downloads/6553/6559/6666/6700/6701/NASA.pdf)
+[Bogen zum Herunterladen](http://www.bko-kfm.de/downloads/6553/6559/6666/6700/6701/NASA.pdf)

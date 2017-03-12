@@ -16,6 +16,7 @@
   * [Füllwortzähler](moderation/fuellwortzaehler.md)
   * [Zuhörer](moderation/zuhoerer.md)
 * [Teamarbeit]
+  * [Workshop Redebewertung](teamarbeit/workshop_redebewertung.md)
   * [Die NASA-Mondlandung](teamarbeit/mondlandung.md)
 * [Multikulturelle Achtsamkeit]
   * [Wie stehst Du dazu?](multikulti/wie_stehst_du_dazu.md)
