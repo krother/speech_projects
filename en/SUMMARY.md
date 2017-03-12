@@ -24,6 +24,8 @@
   * [The Educational Session](data_speeches/educational_session.md)
   * [Selling an Idea](data_speeches/selling_an_idea.md)
   * [The Project Presentation](data_speeches/project_presentation.md)
+* [Workshops]
+  * [Speech Evaluation Workshop](workshops/speech_evaluation.md)
 * [Building Multi-cultural Awareness](multi_cultural_awareness/README.md)
   * [Is Your Body Multi-lingual?](multi_cultural_awareness/is_your_body_multi_lingual.md)
   * [Exercise: What's your Position](multi_cultural_awareness/whats_your_position.md)

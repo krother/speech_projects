@@ -34,11 +34,10 @@ Der Workshop besteht aus folgenden Schritten:
 |----|---------|------|
 | 1. | Teilnehmer begrüßen | 1-2' |
 | 2. | erkläre den Ablauf  | 2-3' |
-| 3. | lose die Bewertungsrollen aus | 3' |
+| 3. | lose die Bewertungsrollen mit den Karten aus | 3' |
 | 4. | Redner/in ankündigen und aufrufen | 2' |
 | 5. | vorbereitete Rede | 5-15' |
-| 6. | nacheinander die Bewertungsrollen aufrufen | 6-20' |
-|    | (1-2' pro Amt)                             |       |
+| 6. | nacheinander die Bewertungsrollen aufrufen (jeder 1-2') | 6-20' |
 | 7. | **PAUSE** | 10' |
 | 8. | Schritt 3.-6. für die zweite Rede wiederholen | 20-40' |
 | 9. | Abmoderation und Schluß | 3' |
