@@ -1,6 +1,8 @@
 
 # Workshop Redebewertung
 
+![9 Bewertungsrollen](9bewertungsrollen.png)
+
 ## Ziel
 
 Alle Teilnehmer geben 1-2 Rednern Feedback mit **9 Bewertungsrollen** wie *Blickkontakt*, *Sprechtempo*, *Struktur* usw. Dabei übt jeder:
@@ -22,8 +24,6 @@ Im Vorfeld gibt es zwei Dinge zu erledigen:
 
 * finde 1-2 Redner, die eine Rede oder Präsentation von 5-15 Minuten Länge halten.
 * zeichne 9 Karten für die **9 Bewertungsrollen**. Du kannst auch das Bild auf ein Blatt ausdrucken und zerschneiden.
-
-![9 Bewertungsrollen](9bewertungsrollen.png)
 
 
 ## Durchführung
