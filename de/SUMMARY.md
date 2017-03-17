@@ -17,6 +17,7 @@
   * [Zuhörer](moderation/zuhoerer.md)
 * [Workshops]
   * [Workshop Redebewertung](teamarbeit/workshop_redebewertung.md)
+  * [Workshop Redebestruktur](teamarbeit/workshop_redestruktur.md)
   * [Die NASA-Mondlandung](teamarbeit/mondlandung.md)
 * [Multikulturelle Achtsamkeit]
   * [Wie stehst Du dazu?](multikulti/wie_stehst_du_dazu.md)
