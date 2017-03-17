@@ -1,10 +1,11 @@
 
 # Meeting Facilitator Roles
 
-![](facilitators.png)
+![meeting facilitation](meeting_facilitation.png)
 
 This document contains descriptions of roles that facilitate speaking club meetings. They have been developed and used in the Spreeredner speaking club ([www.spreeredner.de](http://www.spreeredner.de)). We hope they are useful in other public speaking organizations as well.
 
+![](facilitators.png)
 
 ## License
 

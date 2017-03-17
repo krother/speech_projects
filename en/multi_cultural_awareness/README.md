@@ -3,6 +3,7 @@
 
 **by Armando Cristofori and Barbara Bosch**
 
+![multi-cultural awareness](multicultural.png)
 
 ## License
 

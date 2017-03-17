@@ -1,6 +1,8 @@
 
 # Initial Speech & Facilitation Projects
 
+![easy speeches](easy_speeches.png)
+
 This manual contains four simple projects to make yourself comfortable on the stage. It is intended to help you to embark on a learning path as a speaker.
 
 
