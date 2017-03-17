@@ -1,9 +1,9 @@
 
-# Ämter beim Clubabend
+# Moderationsämter
 
 ![Moderation](meeting_facilitation.png)
 
-Dieses Dokument beschreibt die Ämter beim Treffen eines Redeclubs. Wir verwenden sie in unserem Club, den Spreerednern ([www.spreeredner.de](http://www.spreeredner.de)) geschrieben. Wir hoffen, daß sie auch in anderen Redevereinigungen nützlich sind.
+Dieses Dokument beschreibt die Ämter bei Treffen eines Redeclubs. Wir hoffen, daß sie auch in anderen Situationen nützlich sind.
 
 
 ## Lizenz
