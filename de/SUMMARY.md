@@ -18,6 +18,7 @@
 * [Workshops]
   * [Workshop Redebewertung](teamarbeit/workshop_redebewertung.md)
   * [Workshop Redebestruktur](teamarbeit/workshop_redestruktur.md)
+  * [Übung Redeanfänge](teamarbeit/redeanfaenge.md)
   * [Die NASA-Mondlandung](teamarbeit/mondlandung.md)
 * [Multikulturelle Achtsamkeit]
   * [Wie stehst Du dazu?](multikulti/wie_stehst_du_dazu.md)
