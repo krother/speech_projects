@@ -1,11 +1,9 @@
 
 # Speech Projects
 
-![](speak.png)
-
-This repository contains projects to rehearse public speaking and other communication skills.
-
 ## What are these speech projects good for?
+
+This manual contains projects to rehearse public speaking and other communication skills.
 
 If you want to improve your speaking skills in a given area, or simply want to become better at giving presentations, there is a simple way: **speak!** Like good runners run a lot and good programmers program a lot, good speakers become good by speaking a lot.
 
@@ -19,14 +17,13 @@ It is a simple three-step process:
 
 1. Find a place to speak.
 2. Give the speech for one of the projects.
-3. Collect feedback by someone who read the project description.
+3. Collect feedback by someone who has read the project description.
 
+The chapters of this book contain projects targeted to specific audiences.
 
 ## Where to speak?
 
-The speeches are best held in a mutually supportive environment, e.g. a course, a learners group or a speaking network, such as [Toastmasters International](http://www.toastmasters.org) or [Agora Speakers](http://www.agoraspeakers.org). As long as you make sure you have supportive people for feedback around, it can work almost anywhere.
-
-See the subfolders for speech projects targeted to specific audiences.
+The speeches are best held in a supportive environment, e.g. a course or a speaking club meeting. As long as you make sure you have supportive people for feedback around, it can work almost anywhere.
 
 ## Authors
 
@@ -36,22 +33,21 @@ Jörg Würster, Barbara Strauß, Harald von Treuenfels, Jasmin Touati, Raimo Gra
 
 ## License
 
-Please see individual sections for a detailed list of authors.
+This book is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
 
-Unless stated otherwise, the contents are licensed a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+You may use, share and modify it under the same conditions, but not use it commercially. See [www.creativecommons.org](https://creativecommons.org) for details.
 
-See [www.creativecommons.org](https://creativecommons.org) for details.
+Individual chapters may fall under a less restrictive license.
 
 
 ## Contributing
 
 This document is work in progress. If you would like to contribute, you are invited to:
 
-* send feedback how you used the material.
+* provide feedback how you used the material.
 * sign up for e-mail updates.
 * translate a project.
 * write a new project from scratch.
 
 For any of the above, contact **Kristian Rother** (`krother@academis.eu`)
-
 

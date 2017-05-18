@@ -53,5 +53,21 @@ Frage die Teilnehmer: *"Was für Redeanfänge habt Ihr gehört?"*. Sammle Antwor
 
 Lies alle gesammelten Antworten noch einmal vor.
 
+----
 
+## Beispiele für Redeanfänge
+
+### Beispiel 1
+
+Der Weltraum, unendliche Weiten. Dies sind die Abenteuer des
+Raumschiffs Enterprise. Auf einer Reise zu fremden Welten um
+neues Leben und neue Zivilisationen zu erforschen, wo noch
+niemand gewesen ist.
+
+*(Star Trek: The Next Generation)*
+
+### Beispiel 2
+
+
+----
 von Dr. Kristian Rother (krother@academis.eu)
