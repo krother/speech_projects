@@ -37,10 +37,12 @@ This book is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 
 You may use, share and modify it under the same conditions, but not use it commercially. See [www.creativecommons.org](https://creativecommons.org) for details.
 
-Individual chapters may fall under a less restrictive license.
+Individual chapters may fall under a less restrictive license (noted there).
 
 
 ## Contributing
+
+Editable sources of this document can be found on [https://github.com/krother/speech_projects](https://github.com/krother/speech_projects).
 
 This document is work in progress. If you would like to contribute, you are invited to:
 

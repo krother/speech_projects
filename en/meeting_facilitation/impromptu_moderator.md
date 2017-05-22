@@ -24,6 +24,11 @@ Your responsibility is to make this part run smoothly.
 * Proceed to the next question, and so on.
 * After the speeches, ask the timer for a report.
 * Repeat the names of the speakers and the questions. Ask the audience to elect the best speaker.
+
+
+## Time
+
+20 minutes
  
 ## Hints
 
