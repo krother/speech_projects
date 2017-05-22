@@ -11,47 +11,12 @@ This manual contains projects to rehearse public speaking, meeting facilitation 
 2. Give the speech for one of the projects.
 3. Collect feedback by someone who has read the project description.
 
-Also see the [Frequently Asked Questions](faq.md)
+Also see the [Frequently Asked Questions](en/faq.md)
 
 ## Easy Speech Projects
 
-* [Things You like](../en/easy_speeches/things_you_like.md)
-* [Introduce Yourself](../en/easy_speeches/introduce_yourself.md)
-
-## Speaking Basics
-
-* [Speech Structure (German)](speaking_basics/struktur.md)
-* [Speech Purpose](speaking_basics/speech_purpose.md)
-* [Rhetorical Devices (German)](speaking_basics/rhetorische_stilmittel.md)
-
-## Meeting Facilitation](meeting_facilitation/README.md)
-  
-* [Chairperson](meeting_facilitation/chairperson.md)
-* [Impromptu Speech Moderator](meeting_facilitation/impromptu_moderator.md)
-* [Timer](meeting_facilitation/timer.md)
-* [Filling Word Counter](meeting_facilitation/filling_words.md)
-* [Word Watcher](meeting_facilitation/word_watcher.md)
-* [Listener](meeting_facilitation/listener.md)
-
-## Speech Projects for Data Scientists](data_speeches/README.md)
- 
-* [The Lightning Talk](data_speeches/lightning_talk.md)
-* [The Live Demo](data_speeches/live_demo.md)
-* [The Educational Session](data_speeches/educational_session.md)
-* [Selling an Idea](data_speeches/selling_an_idea.md)
-* [The Project Presentation](data_speeches/project_presentation.md)
-
-## Workshops
-
-* [Speech Evaluation Workshop](workshops/speech_evaluation.md)
-
-## Building Multi-cultural Awareness](multi_cultural_awareness/README.md)
-
-* [Is Your Body Multi-lingual?](multi_cultural_awareness/is_your_body_multi_lingual.md)
-* [Exercise: What's your Position](multi_cultural_awareness/whats_your_position.md)
-
-
-
+* [Things You like](en/easy_speeches/things_you_like.md)
+* [Introduce Yourself](en/easy_speeches/introduce_yourself.md)
 
 
 
@@ -67,5 +32,3 @@ This book is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 You may use, share and modify it under the same conditions, but not use it commercially. See [www.creativecommons.org](https://creativecommons.org) for details.
 
 Individual chapters may fall under a less restrictive license.
-
-
