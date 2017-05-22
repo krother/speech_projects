@@ -6,7 +6,9 @@ Dieses Handbuch enthält einfache Projekte, bei denen Du Dich mit der Bühne ver
 
 ## Autoren
 
-Jörg Würster, Barbara Strauß, Harald von Treuenfels, Jasmin Touati, Kristian Rother, Raimo Graf, Sascha Goldmann, Schorsch Tschürtz, Barbara Bosch
+Jörg Würster, Barbara Strauß, Harald von Treuenfels, Jasmin Touati, Kristian Rother, Raimo Graf, Sascha Goldmann, Schorsch Tschürtz, Barbara Bosch, Magdalena Rother, und Ulrike Münzner.
+
+Redaktionelle Bearbeitung von Kristian Rother
 
 
 ## Lizenz

@@ -97,7 +97,7 @@ This manual contains projects to rehearse public speaking, meeting facilitation 
 
 ## Authors
 
-Jörg Würster, Barbara Strauß, Harald von Treuenfels, Jasmin Touati, Raimo Graf, Sascha Goldmann, Schorsch Tschürtz, Armando Cristofori, Barbara Bosch and Kristian Rother. Edited by Kristian Rother.
+Jörg Würster, Barbara Strauß, Harald von Treuenfels, Jasmin Touati, Raimo Graf, Sascha Goldmann, Schorsch Tschürtz, Armando Cristofori, Barbara Bosch, Magdalena Rother, Ulrike Münzner and Kristian Rother. Edited by Kristian Rother.
 
 
 ## License

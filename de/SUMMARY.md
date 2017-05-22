@@ -21,7 +21,8 @@
   * [Sprachstilbeobachter](moderation/sprachstilbeobachter.md)
   * [Füllwortzähler](moderation/fuellwortzaehler.md)
   * [Zuhörer](moderation/zuhoerer.md)
-* [Workshops und Uebungen]
+* [Workshops und Übungen]
+  * [Workshop Stegreifreden](workshops/workshop_stegreifreden.md)
   * [Workshop Redebewertung](workshops/workshop_redebewertung.md)
   * [Workshop Redebestruktur](workshops/workshop_redestruktur.md)
   * [Übung Redeanfänge](workshops/redeanfaenge.md)

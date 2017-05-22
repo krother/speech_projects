@@ -1,24 +1,15 @@
 
 # Icebreaker Activities
 
-### Handshake
+### Welcome the Guests
 
 Before the meeting starts, walk around and greet guests (with handshake)
 
-### Welcome the Guests
-
-Ask each guest
-
-* to introduce themselves
-* how they found the meeting
-
-### Ball
-
-Form a circle and throw a ball to each other and say from <MY_NAME> to <YOUR_NAME>
+When the meeting starts, ask each guest to introduce themselves and how they heard about the meeting.
 
 ### Expectation round
 
-Ask people what they want to learn
+Ask people what they want to learn.
 
 ### Answer a question
 

@@ -21,15 +21,19 @@ It is a simple three-step process:
 
 The chapters of this book contain projects targeted to specific audiences.
 
-## Where to speak?
+## Where can I learn more?
 
-The speeches are best held in a supportive environment, e.g. a course or a speaking club meeting. As long as you make sure you have supportive people for feedback around, it can work almost anywhere.
+1. Read the [Frequently Asked Questions](faq.md)
+2. [Sign up for updates](http://eepurl.com/cPMA7H)
+
 
 ## Authors
 
 Contribtions to this work were made by:
 
-Jörg Würster, Barbara Strauß, Harald von Treuenfels, Jasmin Touati, Raimo Graf, Sascha Goldmann, Schorsch Tschürtz, Armando Cristofori, Barbara Bosch and Kristian Rother. Edited by Kristian Rother.
+Jörg Würster, Barbara Strauß, Harald von Treuenfels, Jasmin Touati, Raimo Graf, Sascha Goldmann, Schorsch Tschürtz, Armando Cristofori, Barbara Bosch, Magdalena Rother, Ulrike Münzner and Kristian Rother. 
+
+Edited by Kristian Rother.
 
 ## License
 
@@ -42,12 +46,10 @@ Individual chapters may fall under a less restrictive license (noted there).
 
 ## Contributing
 
-Editable sources of this document can be found on [https://github.com/krother/speech_projects](https://github.com/krother/speech_projects).
-
 This document is work in progress. If you would like to contribute, you are invited to:
 
 * provide feedback how you used the material.
-* sign up for e-mail updates.
+* [sign up for e-mail updates]().
 * translate a project.
 * write a new project from scratch.
 
