@@ -5,6 +5,7 @@
 * [Easy Speeches](easy_speeches/README.md)
   * [Things You like](easy_speeches/things_you_like.md)
   * [Introduce Yourself](easy_speeches/introduce_yourself.md)
+  * [Present an Article](easy_speeches/present_an_article.md)
 * [Speaking Basics](speaking_basics/README.md)
   * [Speech Structure (German)](speaking_basics/struktur.md)
   * [Speech Purpose](speaking_basics/speech_purpose.md)

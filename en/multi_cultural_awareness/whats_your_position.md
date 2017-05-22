@@ -18,7 +18,7 @@ The exercise has 4 parts
 
 ## Explaining the exercise
 
-The moderator explains that s/he will read out loud several statements. The participants position themselves on an imaginary line on the ground. Where they position themselves depends on the degree to which they agree with the statement. Positioning themselves to the very right of the line means fully agreeing, positioning themselves to the very left means not agreeing at all. Those who agree somewhat position themselves on the line accordingly.
+The moderator explains that s/he will read out loud several statements. The participants position themselves on an imaginary line on the ground. Where they position themselves depends on the degree to which they agree with the statement. Positioning themselves to the very right of the line means *fully agreeing*, positioning themselves to the very left means *not agreeing at all*. Those who agree somewhat position themselves on the line accordingly.
 
 You will need some space for this exercise. 
 
