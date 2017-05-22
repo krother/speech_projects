@@ -3,7 +3,7 @@
 
 ## Ziel
 
-Führe eine kurze interaktive Übung zu rehetorischen Stilmitteln durch.
+Führe eine kurze interaktive Übung zu rhetorischen Stilmitteln durch.
 
 ## Zeit
 
@@ -11,7 +11,7 @@ Führe eine kurze interaktive Übung zu rehetorischen Stilmitteln durch.
 
 ## Vorbereitung
 
-Du benötigst 9 Karten mit Beispielen für rhetorische Stilmittel. Diese findest Du als [PDF]() und als [Office-Dokument]().
+Du benötigst 9 Karten mit Beispielen für rhetorische Stilmittel. Diese findest Du als [PDF](https://github.com/krother/speech_projects/raw/master/de/workshops/Stilmittel_Karten.pdf) und als [Office-Dokument](https://github.com/krother/speech_projects/raw/master/de/workshops/Stilmittel_Karten.odt).
 
 ## Ablauf
 
@@ -31,7 +31,7 @@ Erkläre in wenigen Worten, wofür rhetorische Stilmittel nützlich sind.
 
 ### 2. Die Aufgabe erklären
 
-Erkläre den Teilnehmer, worin die Übung besteht: *"Wir werden gleich mehrere Sätze mit rhetorischen Stilmitteln hören. Hört genau zu, weil wir"
+Erkläre den Teilnehmer, worin die Übung besteht: *"Wir werden gleich mehrere Sätze mit rhetorischen Stilmitteln hören. Hört genau zu, weil wir versuchen werden die Stilmittel zu erkennen."*
 
 ### 3. Die Karten verteilen
 
