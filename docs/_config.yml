@@ -1,7 +1,2 @@
 theme: jekyll-theme-time-machine
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "Speech Projects"
+title: "Speech Projects"
