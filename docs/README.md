@@ -3,33 +3,62 @@
 
 ## What are these speech projects good for?
 
-This manual contains projects to rehearse public speaking and other communication skills.
-
-If you want to improve your speaking skills in a given area, or simply want to become better at giving presentations, there is a simple way: **speak!** Like good runners run a lot and good programmers program a lot, good speakers become good by speaking a lot.
-
-The **speech projects** described here are stepping stones on the path of improving as a speaker. Each project consists of a speaking assignment focusing on one particular aspect of a speech, so that you can develop your skills in portions.
-
-And, most importantly, **this is an exercise that is meant to be fun**.
+This manual contains projects to rehearse public speaking, meeting facilitation and other communication skills. The projects include speech assignments, exercises and blueprints for workshops.
 
 ## How to use the material?
 
-It is a simple three-step process:
-
-1. Find a place to speak.
+1. Find a supportive environment to speak, e.g. a course or a speaking club meeting.
 2. Give the speech for one of the projects.
 3. Collect feedback by someone who has read the project description.
 
-The chapters of this book contain projects targeted to specific audiences.
+Also see the [Frequently Asked Questions](faq.md)
 
-## Where to speak?
+## Easy Speech Projects
 
-The speeches are best held in a supportive environment, e.g. a course or a speaking club meeting. As long as you make sure you have supportive people for feedback around, it can work almost anywhere.
+* [Things You like](../en/easy_speeches/things_you_like.md)
+* [Introduce Yourself](../en/easy_speeches/introduce_yourself.md)
+
+## Speaking Basics
+
+* [Speech Structure (German)](speaking_basics/struktur.md)
+* [Speech Purpose](speaking_basics/speech_purpose.md)
+* [Rhetorical Devices (German)](speaking_basics/rhetorische_stilmittel.md)
+
+## Meeting Facilitation](meeting_facilitation/README.md)
+  
+* [Chairperson](meeting_facilitation/chairperson.md)
+* [Impromptu Speech Moderator](meeting_facilitation/impromptu_moderator.md)
+* [Timer](meeting_facilitation/timer.md)
+* [Filling Word Counter](meeting_facilitation/filling_words.md)
+* [Word Watcher](meeting_facilitation/word_watcher.md)
+* [Listener](meeting_facilitation/listener.md)
+
+## Speech Projects for Data Scientists](data_speeches/README.md)
+ 
+* [The Lightning Talk](data_speeches/lightning_talk.md)
+* [The Live Demo](data_speeches/live_demo.md)
+* [The Educational Session](data_speeches/educational_session.md)
+* [Selling an Idea](data_speeches/selling_an_idea.md)
+* [The Project Presentation](data_speeches/project_presentation.md)
+
+## Workshops
+
+* [Speech Evaluation Workshop](workshops/speech_evaluation.md)
+
+## Building Multi-cultural Awareness](multi_cultural_awareness/README.md)
+
+* [Is Your Body Multi-lingual?](multi_cultural_awareness/is_your_body_multi_lingual.md)
+* [Exercise: What's your Position](multi_cultural_awareness/whats_your_position.md)
+
+
+
+
+
 
 ## Authors
 
-Contribtions to this manual were made by:
-
 Jörg Würster, Barbara Strauß, Harald von Treuenfels, Jasmin Touati, Raimo Graf, Sascha Goldmann, Schorsch Tschürtz, Armando Cristofori, Barbara Bosch and Kristian Rother. Edited by Kristian Rother.
+
 
 ## License
 
@@ -39,15 +68,4 @@ You may use, share and modify it under the same conditions, but not use it comme
 
 Individual chapters may fall under a less restrictive license.
 
-
-## Contributing
-
-This document is work in progress. If you would like to contribute, you are invited to:
-
-* provide feedback how you used the material.
-* sign up for e-mail updates.
-* translate a project.
-* write a new project from scratch.
-
-For any of the above, contact **Kristian Rother** (`krother@academis.eu`)
 
