@@ -27,13 +27,13 @@ The speeches are best held in a supportive environment, e.g. a course or a speak
 
 ## Authors
 
-Contribtions to this manual were made by:
+Contribtions to this work were made by:
 
 Jörg Würster, Barbara Strauß, Harald von Treuenfels, Jasmin Touati, Raimo Graf, Sascha Goldmann, Schorsch Tschürtz, Armando Cristofori, Barbara Bosch and Kristian Rother. Edited by Kristian Rother.
 
 ## License
 
-This book is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
 
 You may use, share and modify it under the same conditions, but not use it commercially. See [www.creativecommons.org](https://creativecommons.org) for details.
 
