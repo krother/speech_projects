@@ -9,11 +9,10 @@
   * [Speech Structure (German)](speaking_basics/struktur.md)
   * [Speech Purpose](speaking_basics/speech_purpose.md)
   * [Rhetorical Devices (German)](speaking_basics/rhetorische_stilmittel.md)
-  * Voice [to be written]
-  * Body Language [to be written]
 * [Meeting Facilitation](meeting_facilitation/README.md)
   * [Chairperson](meeting_facilitation/chairperson.md)
   * [Impromptu Speech Moderator](meeting_facilitation/impromptu_moderator.md)
+    * [Ideas for Impromptu Speeches](meeting_facilitation/ideas_impromptu.md)
   * [Timer](meeting_facilitation/timer.md)
   * [Filling Word Counter](meeting_facilitation/filling_words.md)
   * [Word Watcher](meeting_facilitation/word_watcher.md)
