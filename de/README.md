@@ -1,7 +1,13 @@
 
-# Einfache Reden und Moderationsprojekte
+# Rede- und Moderationsprojekte
 
-Dieses Handbuch enthält vier einfache Projekte, bei denen Du Dich mit der Bühne vertraut machen kannst. Sie sind dazu gedacht, Deine Fähigkeiten als Redner voran zu bringen, z.B. im Rahmen eines Kurses oder eines Ausbildungsprogramms für Redeclubs.
+Dieses Handbuch enthält einfache Projekte, bei denen Du Dich mit der Bühne vertraut machen kannst. Sie sind dazu gedacht, Deine Fähigkeiten als Redner voran zu bringen, z.B. im Rahmen eines Kurses oder eines Ausbildungsprogramms für Redeclubs.
+
+
+## Autoren
+
+Jörg Würster, Barbara Strauß, Harald von Treuenfels, Jasmin Touati, Kristian Rother, Raimo Graf, Sascha Goldmann, Schorsch Tschürtz, Barbara Bosch
+
 
 ## Lizenz
 
@@ -11,12 +17,6 @@ Details unter [www.creativecommons.org](https://creativecommons.org).
 
 ![](cc_by_nc_sa.png)
 
-
-## Autoren
-
-Die Moderationsprojekte wurden geschrieben von: Jörg Würster, Barbara Strauß, Harald von Treuenfels, Jasmin Touati, Kristian Rother, Raimo Graf, Sascha Goldmann, Schorsch Tschürtz
-
-Die Redeprojekte wurden geschrieben von: Kristian Rother
 
 ## Darf ich die Inhalte verwenden oder verändern?
 
@@ -30,7 +30,7 @@ Du darfst veränderte, übersetzte, erweiterte oder verkürzte Ausfertigungen di
 
 ## Darf ich Euer Logo durch das meines Clubs oder meiner Organisation ersetzen?
 
-Ja, sofern Du
+Ja, sofern Du:
 
 * die Erlaubnis hast, das Logo zu verwenden (falls ein Trademark dafür besteht).
 * das neue Dokument unter der gleichen Lizenz veröffentlichst.
@@ -54,7 +54,7 @@ Editierbare Versionen des Dokuments findest Du unter [Github](https://github.com
 
 Das Format wird **Markdown** genannt. Es läßt sich sehr einfach in eine Menge anderer Formate umwandeln. Mehr dazu im **Markdown Tutorial** unter [www.markdowntutorial.com](http://www.markdowntutorial.com/).
 
-Wenn Du DOCX, HTML oder LaTeX erzeugen möchtest, geht das mit **pandoc** ([www.pandoc.org/](http://pandoc.org/)). Wenn Du ein PDF mit allen Ämtern erzeugen möchtest, geht das mit **gitbook** ([www.gitbook.com](https://www.gitbook.com/)).
+Wenn Du DOCX, HTML oder LaTeX erzeugen möchtest, geht das mit **pandoc** ([www.pandoc.org/](http://pandoc.org/)). Wenn Du ein PDF mit allen Projekten erzeugen möchtest, geht das mit **gitbook** ([www.gitbook.com](https://www.gitbook.com/)).
 
 ## Kann ich Euch kontaktieren falls ich Fragen habe?
 

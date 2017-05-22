@@ -5,6 +5,7 @@
 * [Leichte Redeprojekte](leichte_reden/README.md)
   * [Dein Lieblingsthema](leichte_reden/dein_lieblingsthema.md)
   * [Stell Dich vor](leichte_reden/stell_dich_vor.md)
+  * [Stelle einen Artikel vor](leichte_reden/artikel_vorstellen.md)
 * [Moderationsämter](moderation/README.md)
   * [Zeitnehmer](moderation/zeitnehmer.md)
   * [Füllwortzähler](moderation/fuellwortzaehler.md)
@@ -15,10 +16,11 @@
   * [Sprachstilbeobachter](moderation/sprachstilbeobachter.md)
   * [Füllwortzähler](moderation/fuellwortzaehler.md)
   * [Zuhörer](moderation/zuhoerer.md)
-* [Workshops]
-  * [Workshop Redebewertung](teamarbeit/workshop_redebewertung.md)
-  * [Workshop Redebestruktur](teamarbeit/workshop_redestruktur.md)
-  * [Übung Redeanfänge](teamarbeit/redeanfaenge.md)
+* [Workshops und Uebungen]
+  * [Workshop Redebewertung](workshops/workshop_redebewertung.md)
+  * [Workshop Redebestruktur](workshops/workshop_redestruktur.md)
+  * [Übung Redeanfänge](workshops/redeanfaenge.md)
+  * [Übung Rhetorische Stilmittel](workshops/stilmittel.md)
 * [Teamarbeit]
   * [Produktive Vorstandstreffen](teamarbeit/vorstandstreffen.md)
   * [Die NASA-Mondlandung](teamarbeit/mondlandung.md)
