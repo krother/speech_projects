@@ -10,6 +10,7 @@
   * [Redestruktur](grundlagen/struktur.md)
   * [Redeabsicht](grundlagen/redeabsicht.md)
   * [Stilmittel](grundlagen/rhetorische_stilmittel.md)
+  * [Bewertungsreden](grundlagen/bewertungsreden.md)
 * [Moderationsämter](moderation/README.md)
   * [Zeitnehmer](moderation/zeitnehmer.md)
   * [Füllwortzähler](moderation/fuellwortzaehler.md)

@@ -7,7 +7,7 @@ Deliver a spech that is clearly divided into **opening**, **body** and **conclus
 
 ## Background
 
-Why does the structure of a speec matter? First, structure is crucial for making a speech understandeable for your audience. Second, it helps you to be aware how far your speech has proceeded. Finally, a solid structure serves as a backup plan: Even if a lot of things fall apart (no projector or presentation time cut in half), the structure helps you to make your point.
+Why does the structure of a speech matter? First, structure is crucial for making a speech understandeable for your audience. Second, it helps you to be aware how far your speech has proceeded. Finally, a solid structure serves as a backup plan: Even if a lot of things fall apart (no projector or presentation time cut in half), the structure helps you to make your point.
 
 ![](structure.png)
 

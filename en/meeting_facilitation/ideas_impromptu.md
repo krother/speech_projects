@@ -80,3 +80,12 @@ Obviously, preparing 30-50 slides is **a lot of work**. If you know a link to sl
 [Story Cubes](https://www.storycubes.com/) are a nice gadget that helps you to generate cues randomly. The speaker rolls a couple of dice (3 or more) and tries to assemble them to a story. The dice are available in a **physical version** and as an **app**.
 
 Because the dice are quite small, Story Cubes are a better fit for smaller groups.
+
+## 11. Improvised Debate
+
+This impromptu exercise is for two or more persons. Set a topic. One person expresses an idea, the next contradicts and so on.
+
+## 12. Chain Story
+
+Start a story. Participants take turns in adding 1-2 sentences.
+

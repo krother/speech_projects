@@ -11,6 +11,7 @@
   * [Speech Purpose](speaking_basics/speech_purpose.md)
   * [Rhetorical Devices](speaking_basics/rhetorical_devices.md)
 * [Meeting Facilitation](meeting_facilitation/README.md)
+  * [Icebreaker Activities])meeting_facilitation/icebreakers.md)
   * [Chairperson](meeting_facilitation/chairperson.md)
   * [Impromptu Speech Moderator](meeting_facilitation/impromptu_moderator.md)
     * [Ideas for Impromptu Speeches](meeting_facilitation/ideas_impromptu.md)
@@ -26,6 +27,7 @@
   * [The Project Presentation](data_speeches/project_presentation.md)
 * [Workshops]
   * [Speech Evaluation Workshop](workshops/speech_evaluation.md)
+  * [Harvesting Ideas and Knowledge](workshops/harvesting_ideas.md)
 * [Building Multi-cultural Awareness](multi_cultural_awareness/README.md)
   * [Is Your Body Multi-lingual?](multi_cultural_awareness/is_your_body_multi_lingual.md)
   * [Exercise: What's your Position](multi_cultural_awareness/whats_your_position.md)
