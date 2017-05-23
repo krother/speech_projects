@@ -91,6 +91,7 @@ This manual contains projects to rehearse public speaking, meeting facilitation 
 ### Other
 
 * [Frequently Asked Questions](en/faq.md)
+* [Contributing](en/contributions.md)
 * [Contributing](en/contributing.md)
 
 ----
