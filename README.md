@@ -61,6 +61,7 @@ This manual contains projects to rehearse public speaking, meeting facilitation 
 * [Speech Structure](en/speaking_basics/structure.md)
 * [Speech Purpose](en/speaking_basics/speech_purpose.md)
 * [Rhetorical Devices](en/speaking_basics/rhetorical_devices.md)
+* [Giving Speech Evaluations](en/speaking_basics/evaluations.md)
 
 ### Meeting Facilitation
 
