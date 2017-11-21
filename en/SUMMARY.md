@@ -10,7 +10,7 @@
   * [Speech Structure](speaking_basics/structure.md)
   * [Speech Purpose](speaking_basics/speech_purpose.md)
   * [Rhetorical Devices](speaking_basics/rhetorical_devices.md)
-  * [Giving Speech Evaluations](en/speaking_basics/evaluations.md)  
+  * [Giving Speech Evaluations](speaking_basics/evaluation.md)  
 * [Meeting Facilitation](meeting_facilitation/README.md)
   * [Icebreaker Activities](meeting_facilitation/icebreakers.md)
   * [Chairperson](meeting_facilitation/chairperson.md)
