@@ -7,7 +7,7 @@ Halte eine Rede über Dich selbst.
 
 ## Hintergrund
 
-Im zweiten Redeprojekt wirst Du Dich mit eine interessanten aber komplexen Thema beschäftige: Dir selbst! Stelle Dich dem Publikum vor, so daß sie Dich besser kennen lernen.
+Im zweiten Redeprojekt wirst Du Dich mit eine interessanten aber komplexen Thema beschäftige: Dir selbst! Stelle Dich dem Publikum vor, so dass sie Dich besser kennen lernen.
 
 Es gibt verschiedene Wege, diese Rede anzugehen:
 
@@ -23,17 +23,14 @@ Versuche nicht zu viel Inhalt in diese Rede zu quetschen. Dein Leben enthält ga
 Einige Themen würdest Du fremden Leuten vermutlich nicht gleich erzählen, zum Beispiel:
 
 * Eigenlob
-* Abhängigkeiten
+* Krankheiten, psychische Erkrankungen und Süchte
+* Scheidungen und andere Trennungen
+* Sexuelle Vorlieben
 * Deine Polizeiakte
-* Krankheiten
-* Scheidungen
-* sonstiges Unglück ..
-
-.. außer natürlich, Du *würdest* mit Fremden darüber sprechen.
 
 ## Zeit
 
-2-4 minutes
+2-4 Minuten
 
 ## Fragen für Redebewerterinnen & Bewerter
 

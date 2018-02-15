@@ -17,7 +17,7 @@ Der Anfang einer Rede soll vor allem eines: *Appetit auf den Rest machen*. Erzä
 
 ### Der Hauptteil
 
-Der Hauptteil einer Rede sollte aus 2-4 Punkten aufgebaut sein. Bei mehr verliert der Zuhörer in der kurzen Zeit schnell den Überblick. Für das Verständnis ist es wichtig, daß die Übergänge zwischen den Teilen klar erkennbar sind. Wenn Du auf Nummer sicher gehen möchtest, kannst Du die einzelnen Teile auch ankündigen: *"Mein erster Punkt ist.."*
+Der Hauptteil einer Rede sollte aus 2-4 Punkten aufgebaut sein. Bei mehr verliert der Zuhörer in der kurzen Zeit schnell den Überblick. Für das Verständnis ist es wichtig, dass die Übergänge zwischen den Teilen klar erkennbar sind. Wenn Du auf Nummer sicher gehen möchtest, kannst Du die einzelnen Teile auch ankündigen: *"Mein erster Punkt ist.."*
 
 Es gibt sehr viele Möglichkeiten, den Hauptteil einer Rede zu strukturieren. Für dieses Projekt kannst Du eine der folgenden Möglichkeiten wählen:
 
@@ -28,7 +28,7 @@ Es gibt sehr viele Möglichkeiten, den Hauptteil einer Rede zu strukturieren. F�
 
 ### Der Schluß
 
-Der Schluß einer Rede sollte noch einmal die Kernaussage betonen. Auch hier hast Du wieder mehrere Möglichkeiten zur Auswahl: Eine Zusammenfassung des bisher gesagten ist sicherlich die einfachste Variante. Etwas schwieriger ist ein Appell (eine Handlungsanforderung) an das Publikum. Ein gut plaziertes Zitat oder ein eigener prägnanter Satz eignen sich besonders für das Ende. So machst Du dem Publikum unmißverständlich deutlich, daß Deine Rede vorbei ist (und applaudiert werden darf).
+Der Schluß einer Rede sollte noch einmal die Kernaussage betonen. Auch hier hast Du wieder mehrere Möglichkeiten zur Auswahl: Eine Zusammenfassung des bisher gesagten ist sicherlich die einfachste Variante. Etwas schwieriger ist ein Appell (eine Handlungsanforderung) an das Publikum. Ein gut plaziertes Zitat oder ein eigener prägnanter Satz eignen sich besonders für das Ende. So machst Du dem Publikum unmißverständlich deutlich, dass Deine Rede vorbei ist (und applaudiert werden darf).
 
 Der Fokus dieses Redeprojektes liegt dabei, Dir im Voraus eine Struktur für Dein Thema zu überlegen und die Rede dementsprechend vorzubereiten.
 

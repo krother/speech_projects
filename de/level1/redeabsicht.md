@@ -9,7 +9,7 @@ Halte eine Rede mit einer klaren, vorher festgelegten Redeabsicht.
 
 ### Eine Rede ist für das Publikum
 
-Stelle Dir vor, Deine Präsentation ist grade vorbei. Du erntest Applaus, gehst von der Bühne und das war es. Lohnt es sich wirklich, viel Vorbereitung in die paar Minuten zu investieren? Hast Du schon einmal daran gedacht, daß Dein Publikum ebenfalls Zeit investiert. Bei 30 Leuten, die eine 20-minütige Präsentation sehen, kommen so immerhin 10 Stunden zusammen. Es liegt an Dir, daraus eine wertvolle Zeit zu machen.
+Stelle Dir vor, Deine Präsentation ist grade vorbei. Du erntest Applaus, gehst von der Bühne und das war es. Lohnt es sich wirklich, viel Vorbereitung in die paar Minuten zu investieren? Hast Du schon einmal daran gedacht, dass Dein Publikum ebenfalls Zeit investiert. Bei 30 Leuten, die eine 20-minütige Präsentation sehen, kommen so immerhin 10 Stunden zusammen. Es liegt an Dir, daraus eine wertvolle Zeit zu machen.
 
 Der erste Schritt bei der Vorbereitung ist daher, an die Interessen des Publikums zu denken. Was für Menschen werden dort sein? Womit kennen die sich gut aus? Was könnte sie interessieren? Was für Meinungen herrschen beim Publikum vor? Je deutlicher Du Dir klar machst, was Dein Publikum eigentlich von Deiner Rede hat, umso stärker wird sie wirken.
 
@@ -44,7 +44,7 @@ Es gibt viele Gründe, ein Publikum überzeugen zu wollen: Eine Meinung zu verbr
 
 ### Unterhalten
 
-Manchmal geht es bei einer Rede einfach nur darum, gute Laune zu verbreiten. Gelungene Unterhaltung bedeutet nicht nur, daß das Publikum lacht bis sich die Balken biegen. Unterhaltn ist auch wenn das Publikum schmunzelt und denkt *"gute Geschichte!"* oder sogar die Taschentücher herausholt. Falls Du einmal als letzter Redner auf einer langen Veranstaltung sprechen mußteßt, weißt Du warum dies eine wichtige Redeabsicht ist.
+Manchmal geht es bei einer Rede einfach nur darum, gute Laune zu verbreiten. Gelungene Unterhaltung bedeutet nicht nur, dass das Publikum lacht bis sich die Balken biegen. Unterhaltn ist auch wenn das Publikum schmunzelt und denkt *"gute Geschichte!"* oder sogar die Taschentücher herausholt. Falls Du einmal als letzter Redner auf einer langen Veranstaltung sprechen mußteßt, weißt Du warum dies eine wichtige Redeabsicht ist.
 
 Meistens ist die Redeabsicht eine der vier obigen. Sobald Du Dir darüber im klaren bist, wird es viel leichter, den Rest der Rede zu schreiben.
 
@@ -66,8 +66,3 @@ In diesem Projekt geht es darum, Dich für eine klare Redeabsicht zu entscheiden
 * Welche Teile der Rede haben die Redeabsicht unterstützt?
 * Welche Teile der Rede haben von der Redeabsicht abgelenkt?
 * Wie hätte die Redeabsicht noch klarer sein können?
-
-
-## Autoren
-
-Basierend auf Texten von Magdalena Rother und Ulrike Münzner. Bearbeitet von Kristian Rother. Bilder von Kristian Rother. Verfügbar unter den Bedingungen der Creative Commons CC-BY-NC-SA Lizenz 4.0.
