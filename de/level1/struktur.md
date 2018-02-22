@@ -1,6 +1,8 @@
 
 # Redestruktur
 
+![](bilder/redestruktur.png)
+
 ## Ziel
 
 Halte eine Rede, die klar in Einleitung, Hauptteil und Schluß gegliedert ist.
@@ -9,7 +11,7 @@ Halte eine Rede, die klar in Einleitung, Hauptteil und Schluß gegliedert ist.
 
 Warum ist die Struktur einer Rede wichtig? Zum einen ist die Struktur ist einer der ganz großen Verständlichmacher für das Publikum. Zum anderen hilft sie Dir beim Reden genau zu wissen, an welcher Stelle Du Dich befindest. Schließlich dient die Struktur als Rettungsanker: selbst wenn ganz viel schief geht und Du z.B. nur halb so viel Zeit hast oder der Beamer bei der Präsentation ausfällt, hilft Dir eine solide Struktur dabei, deine wichtigsten Aussagen trotzdem zu vermitteln.
 
-![](struktur.png)
+![](bilder/struktur.png)
 
 ### Die Einleitung
 

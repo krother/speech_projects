@@ -1,6 +1,8 @@
 
 # Zeitnehmer/in
 
+![](bilder/zeitnehmer.png)
+
 ## Deine Aufgabe
 
 Die Einhaltung von Zeiten ist bei allen Reden sehr wichtig. 

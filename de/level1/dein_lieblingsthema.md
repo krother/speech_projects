@@ -1,6 +1,8 @@
 
 # Dein Lieblingsthema
 
+![](bilder/lieblingsthema.png)
+
 ## Ziel
 
 Sprich für eine kurze Zeit über Dein Lieblingsthema.

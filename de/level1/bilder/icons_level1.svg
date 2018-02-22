@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1325"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="icons_level1.svg">
+  <defs
+     id="defs1319">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4848">
+      <stop
+         style="stop-color:#5bbabf;stop-opacity:1;"
+         offset="0"
+         id="stop4844" />
+      <stop
+         style="stop-color:#5bbabf;stop-opacity:0;"
+         offset="1"
+         id="stop4846" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8305">
+      <stop
+         style="stop-color:#5bbabf;stop-opacity:1;"
+         offset="0"
+         id="stop8301" />
+      <stop
+         style="stop-color:#5bbabf;stop-opacity:0;"
+         offset="1"
+         id="stop8303" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3263"
+       is_visible="true" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6343">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="M 713.20554,366.93902 V 533.56601 H 837.83885 V 458.67575 H 939.34654 V 376.74061 H 837.83885 v -9.80159 z"
+         id="path6345"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1412">
+      <rect
+         transform="scale(-1,1)"
+         style="fill:#e6e6e6;stroke:none;stroke-width:0.55029577"
+         id="rect1414"
+         width="46.524342"
+         height="46.637638"
+         x="-61.137856"
+         y="69.228851"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-ydpi="149.98193" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2335">
+      <path
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:connector-curvature="0"
+         id="path2337"
+         d="m 114.04474,19.761238 c -7.16103,0.0044 -13.04607,5.652202 -13.34486,12.806992 h -0.0197 c -0.23286,7.45427 -3.184984,12.195887 -7.560326,14.756272 h 7.560326 26.72916 7.46923 c -5.2362,-3.507334 -7.46923,-8.881594 -7.46923,-14.756272 h -0.0278 c -0.29869,-7.151659 -6.17889,-12.798292 -13.33678,-12.806992 z"
+         style="opacity:0.98999999;fill:#216778;fill-opacity:1;stroke:none;stroke-width:0.42222354;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2565">
+      <rect
+         transform="scale(-1,1)"
+         style="fill:#e6e6e6;stroke:none;stroke-width:4.81669521"
+         id="rect2567"
+         width="407.71939"
+         height="407.71939"
+         x="779.71893"
+         y="600.18713"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-ydpi="149.98193" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3263-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3263-3-9"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible">
+      <path
+         id="path4440"
+         style="fill-rule:evenodd;stroke-width:0.40000001;stroke-linejoin:round"
+         d="M -5.5798962,-2.5815905 1.4126653,-0.01024849 -5.5798966,2.561093 c 1.117119,-1.518119 1.1106821,-3.5951692 4e-7,-5.1426835 z"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker316"
+       style="overflow:visible">
+      <path
+         id="path314"
+         style="fill-rule:evenodd;stroke-width:0.40000001;stroke-linejoin:round"
+         d="M -5.5798962,-2.5815905 1.4126653,-0.01024849 -5.5798966,2.561093 c 1.117119,-1.518119 1.1106821,-3.5951692 4e-7,-5.1426835 z"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4568">
+      <rect
+         style="opacity:0.5;fill:#e6e6e6;stroke:none;stroke-width:0.31923217"
+         id="rect4570"
+         width="27.022083"
+         height="27.022083"
+         x="29.069517"
+         y="140.57959"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-ydpi="149.98193" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8305"
+       id="linearGradient4822"
+       gradientUnits="userSpaceOnUse"
+       x1="117.15128"
+       y1="32.299011"
+       x2="127.40935"
+       y2="32.56823" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4848"
+       id="radialGradient4852"
+       cx="209.483"
+       cy="61.690697"
+       fx="209.483"
+       fy="61.690697"
+       r="118.38314"
+       gradientTransform="matrix(1.2558138,-0.00193768,0.00188507,1.20647,-162.69458,54.598134)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497476"
+     inkscape:cx="382.10153"
+     inkscape:cy="604.86515"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-nodes="false"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:snap-others="false" />
+  <metadata
+     id="metadata1322">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:url(#radialGradient4852);fill-opacity:1;stroke:#ffffff;stroke-width:0.82306379;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect8355"
+       width="235.94321"
+       height="231.13234"
+       x="-17.375557"
+       y="12.234471"
+       inkscape:export-filename="/home/krother/Desktop/Speechproject/Redesalon/7projekte.png"
+       inkscape:export-xdpi="90.012131"
+       inkscape:export-ydpi="90.012131" />
+    <g
+       inkscape:export-ydpi="130.28999"
+       inkscape:export-xdpi="130.28999"
+       inkscape:export-filename="/home/krother/fuellwortzaehler.png"
+       transform="translate(-15.11364,20.067893)"
+       id="g4820">
+      <rect
+         transform="scale(-1,1)"
+         style="fill:#e6e6e6;stroke:none;stroke-width:0.69090354"
+         id="rect4800"
+         width="58.483002"
+         height="58.483002"
+         x="-144.95119"
+         y="5.3487487"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-ydpi="149.98193" />
+      <g
+         id="g4818"
+         transform="translate(2.0239731)">
+        <g
+           transform="matrix(0.99276379,0,0,0.99276379,0.58121818,-7.9065128)"
+           id="g4810">
+          <path
+             style="opacity:0.98999999;fill:#216778;fill-opacity:1;stroke:none;stroke-width:0.42222354;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+             d="m 114.04474,19.761238 c -7.16103,0.0044 -13.04607,5.652202 -13.34486,12.806992 h -0.0197 c -0.23286,7.454271 -3.184978,12.195888 -7.560322,14.756273 h 7.560322 26.72917 7.46923 c -5.2362,-3.507336 -7.46923,-8.881595 -7.46923,-14.756273 h -0.0278 c -0.29869,-7.151659 -6.17889,-12.798292 -13.33678,-12.806992 z"
+             id="path4802"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccccccc" />
+          <circle
+             r="4.858839"
+             cy="47.517746"
+             cx="113.99918"
+             id="circle4804"
+             style="opacity:0.98999999;fill:#216778;fill-opacity:1;stroke:none;stroke-width:0.15350331;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+          <path
+             sodipodi:nodetypes="cccccccccc"
+             inkscape:connector-curvature="0"
+             id="path4806"
+             d="m 114.04474,19.761238 c -7.16103,0.0044 -13.04607,5.652202 -13.34486,12.806992 h -0.0197 c -0.23286,7.454271 -3.184978,12.195888 -7.560322,14.756273 h 7.560322 26.72917 7.46923 c -5.2362,-3.507336 -7.46923,-8.881595 -7.46923,-14.756273 h -0.0278 c -0.29869,-7.151659 -6.17889,-12.798292 -13.33678,-12.806992 z"
+             style="opacity:0.98999999;fill:url(#linearGradient4822);fill-opacity:1;stroke:#000000;stroke-width:0.70488501;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+          <rect
+             clip-path="url(#clipPath2335)"
+             y="38.925392"
+             x="93.878532"
+             height="3.1136329"
+             width="39.609226"
+             id="rect4808"
+             style="opacity:0.98999999;fill:#5b88bf;fill-opacity:1;stroke:#000000;stroke-width:1.00728893;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+        </g>
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path4812"
+           d="m 105.40143,44.208179 c 4.12898,6.51343 12.52694,6.5184 16.70811,0"
+           style="fill:none;stroke:#000000;stroke-width:1.86609161;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.86609161;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 102.31488,47.205867 c 3.7763,8.276774 17.64064,8.634414 22.87981,0.176334"
+           id="path4814"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path4816"
+           d="m 98.908943,50.13526 c 4.128987,10.304622 23.746657,10.093067 29.691167,0.400645"
+           style="fill:none;stroke:#000000;stroke-width:1.86609161;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="130.00999"
+       inkscape:export-xdpi="130.00999"
+       inkscape:export-filename="/home/krother/Desktop/Speechproject/Redesalon/kernbotschaft.png"
+       transform="translate(-16.464497,56.72888)"
+       id="g4660">
+      <flowRoot
+         transform="matrix(-0.26458333,0,0,0.26458333,143.69587,-43.422136)"
+         xml:space="preserve"
+         id="flowRoot4636"
+         style="font-style:normal;font-weight:normal;font-size:12.80000019px;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+           id="flowRegion4632"
+           style="font-family:sans-serif;stroke-width:1.06666672px"><rect
+             id="rect4630"
+             width="61.417274"
+             height="65.727257"
+             x="386.82111"
+             y="374.19867"
+             style="font-size:17.06666756px;font-family:sans-serif;stroke-width:1.13777781px" /></flowRegion><flowPara
+           id="flowPara4634"
+           style="font-size:17.06666756px;line-height:1.25;font-family:sans-serif;stroke-width:1.06666672px"> </flowPara></flowRoot>      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.28222224"
+         id="rect4638"
+         width="47.571362"
+         height="47.966671"
+         x="-65.577728"
+         y="15.777646"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-ydpi="149.98193"
+         transform="scale(-1,1)" />
+      <rect
+         inkscape:export-ydpi="149.98193"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         y="5.3483119"
+         x="-76.262924"
+         height="58.483437"
+         width="58.483002"
+         id="rect4640"
+         style="fill:#e6e6e6;stroke:none;stroke-width:0.69090617"
+         transform="scale(-1,1)" />
+      <g
+         id="g4648"
+         transform="matrix(1.2539966,0,0,1.2539966,-0.54537063,-81.46443)"
+         clip-path="url(#clipPath1412)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4642"
+           d="M 44.558445,67.006763 A 23.809945,23.809945 0 0 0 20.748604,90.816604 23.809945,23.809945 0 0 0 44.558445,114.62645 23.809945,23.809945 0 0 0 68.368288,90.816604 23.809945,23.809945 0 0 0 44.558445,67.006763 Z m 0,4.26464 a 19.545138,19.545138 0 0 1 19.545201,19.545201 19.545138,19.545138 0 0 1 -19.545201,19.545206 19.545138,19.545138 0 0 1 -19.5452,-19.545206 19.545138,19.545138 0 0 1 19.5452,-19.545201 z"
+           style="opacity:0.98999999;fill:#5b88bf;fill-opacity:1;stroke:none;stroke-width:0.75221801;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4644"
+           d="M 44.558445,75.180921 A 15.63573,15.63573 0 0 0 28.922763,90.816606 15.63573,15.63573 0 0 0 44.558445,106.45229 15.63573,15.63573 0 0 0 60.19413,90.816606 15.63573,15.63573 0 0 0 44.558445,75.180921 Z m 0,4.738647 A 10.897083,10.897083 0 0 1 55.455483,90.816606 10.897083,10.897083 0 0 1 44.558445,101.71364 10.897083,10.897083 0 0 1 33.66141,90.816606 10.897083,10.897083 0 0 1 44.558445,79.919568 Z"
+           style="opacity:0.98999999;fill:#5b88bf;fill-opacity:1;stroke:none;stroke-width:0.49397323;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+        <circle
+           r="5.6845155"
+           cy="90.816605"
+           cx="44.558445"
+           id="circle4646"
+           style="opacity:0.98999999;fill:#5b88bf;fill-opacity:1;stroke:none;stroke-width:0.17958859;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+      <g
+         id="g4652"
+         transform="matrix(-0.60401171,0,0,0.60401171,578.83151,-154.83779)"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-ydpi="149.98193"
+         style="fill:#5bbabf;fill-opacity:1;stroke:#000000;stroke-width:0.89693666">
+        <path
+           inkscape:export-ydpi="300.03"
+           inkscape:export-xdpi="300.03"
+           inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\title.png"
+           inkscape:connector-curvature="0"
+           id="path4650"
+           d="m 901.07373,296.00763 c -3.01378,1.74 -4.06012,2.86113 -5.0379,5.53534 -0.10989,0.30054 -4.03201,-0.0896 -4.37299,1.40277 -0.51696,2.26267 3.33104,3.27249 3.31243,3.61493 -0.12134,2.23439 0.52311,3.6864 1.72515,5.76839 10.04093,13.86761 26.64664,-0.85972 20.688,-11.94423 -3.29883,-5.71374 -10.60095,-7.67603 -16.31469,-4.3772 z"
+           style="fill:#5bbabf;fill-opacity:1;stroke:#000000;stroke-width:0.95673245"
+           sodipodi:nodetypes="ssssccs" />
+      </g>
+      <g
+         id="g4658"
+         transform="matrix(-0.5852664,0,0,0.5852664,561.90974,-149.06477)"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-ydpi="149.98193"
+         style="fill:#5fbcd3;stroke:#000000;stroke-width:0.89693666">
+        <path
+           sodipodi:nodetypes="ccccccccccccccc"
+           style="fill:#5bbabf;fill-opacity:1;stroke:#000000;stroke-width:0.96442312"
+           d="m 916.11884,352.81369 3.75268,10.57916 -30.22012,-0.25703 4.87827,-10.32213 h 21.58917 l 2.18001,-13.79008 11.06778,17.98773 0.0801,-18.11641 -9.09444,-14.08788 -7.29758,-5.268 h -12.54709 l -37.40155,-15.38916 0.0136,10.72778 29.15411,15.09143 2.25596,22.84459"
+           id="path4654"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\title.png"
+           inkscape:export-xdpi="300.03"
+           inkscape:export-ydpi="300.03" />
+        <path
+           style="fill:#5fbcd3;stroke:#000000;stroke-width:7.71538496;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 903.23278,294.43949 c 0.98507,-0.48079 2.06116,-0.77427 3.15393,-0.86016 2.43565,-0.19143 4.92549,0.68648 6.74269,2.31952 1.81721,1.63305 2.94985,3.99046 3.1492,6.42548 0.1617,1.9751 -0.26302,3.95543 -0.20202,5.93619 0.0305,0.99038 0.18634,1.98832 0.58261,2.89648 0.39627,0.90816 1.04744,1.72415 1.91318,2.20611 1.0804,0.60147 2.46159,0.62504 3.56189,0.0608 1.1003,-0.56425 1.88715,-1.69964 2.02918,-2.928"
+           id="path4656"
+           inkscape:path-effect="#path-effect3263"
+           inkscape:original-d="m 903.23278,294.43949 c 0.76426,-1.09497 2.11943,-0.34291 3.15393,-0.86016 4.81438,-2.40719 8.88016,5.70983 9.89189,8.745 0.95189,2.85566 0.36082,9.10582 2.29377,11.03878 0.48361,0.4836 5.26401,-2.21309 5.59107,-2.86722"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="csssc" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.14343934,0,0,0.14343934,251.82245,-31.773835)"
+       id="g4121"
+       clip-path="none">
+      <g
+         id="g4119"
+         transform="matrix(-4.0515864,0,0,4.0515864,2551.3691,-307.21763)"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-ydpi="149.98193"
+         style="fill:#006680;stroke:#000000;stroke-width:0.89693666" />
+    </g>
+    <g
+       id="g2395"
+       transform="translate(-154.38576,129.8156)"
+       inkscape:export-filename="/home/krother/Desktop/Speechproject/Redesalon/zeitnehmer.png"
+       inkscape:export-xdpi="130.28999"
+       inkscape:export-ydpi="130.28999">
+      <rect
+         transform="scale(-1,1)"
+         style="fill:#e6e6e6;stroke:none;stroke-width:0.69090617"
+         id="rect1460"
+         width="58.483002"
+         height="58.483437"
+         x="-214.12083"
+         y="5.4394646"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-ydpi="149.98193" />
+      <g
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/krother/Desktop/stopwatch.png"
+         transform="matrix(0.12628778,0,0,0.12628778,136.81346,-39.294974)"
+         id="g6210">
+        <rect
+           style="fill:#5bbabf;fill-opacity:1;stroke:#000000;stroke-width:4.26666689;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4789"
+           width="43.084042"
+           height="39.851547"
+           x="357.22986"
+           y="436.70132" />
+        <rect
+           y="415.24539"
+           x="342.23886"
+           height="27.811148"
+           width="73.065994"
+           id="rect4791"
+           style="fill:#2c89a0;fill-opacity:1;stroke:#000000;stroke-width:4.26666689;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           ry="11.313708" />
+        <rect
+           y="21.196259"
+           x="664.07727"
+           height="39.851547"
+           width="43.084042"
+           id="rect4799"
+           style="fill:#5bbabf;fill-opacity:1;stroke:#000000;stroke-width:4.26666689;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           transform="rotate(42.351857)" />
+        <rect
+           ry="11.313708"
+           style="fill:#2c89a0;fill-opacity:1;stroke:#000000;stroke-width:4.26666689;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4801"
+           width="73.065994"
+           height="27.811148"
+           x="649.08624"
+           y="-0.25969821"
+           transform="rotate(42.351857)" />
+        <rect
+           style="fill:#5bbabf;fill-opacity:1;stroke:#000000;stroke-width:4.26666689;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4805"
+           width="43.084042"
+           height="39.851547"
+           x="104.2599"
+           y="531.51782"
+           transform="matrix(-0.73902167,0.67368166,0.67368166,0.73902167,0,0)" />
+        <rect
+           y="510.06186"
+           x="89.268913"
+           height="27.811148"
+           width="73.065994"
+           id="rect4807"
+           style="fill:#2c89a0;fill-opacity:1;stroke:#000000;stroke-width:4.26666689;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           ry="11.313708"
+           transform="matrix(-0.73902167,0.67368166,0.67368166,0.73902167,0,0)" />
+        <circle
+           r="146.53947"
+           cy="602.64368"
+           cx="378.75571"
+           style="fill:#216778;fill-opacity:1;stroke:#000000;stroke-width:4.26666689;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path4783" />
+        <circle
+           r="137.49536"
+           cy="602.64368"
+           cx="378.75571"
+           id="path4809"
+           style="fill:#5bbabf;fill-opacity:1;stroke:#000000;stroke-width:4.26666641;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+        <path
+           sodipodi:type="star"
+           style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path4824"
+           sodipodi:sides="12"
+           sodipodi:cx="105.71429"
+           sodipodi:cy="474.50504"
+           sodipodi:r1="0.6430158"
+           sodipodi:r2="64.301582"
+           sodipodi:arg1="1.5707963"
+           sodipodi:arg2="1.8325957"
+           inkscape:flatsided="false"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 105.71429,475.14805 -16.642476,61.46754 16.320966,-61.55369 -45.146577,44.91122 44.911217,-45.14658 -61.553692,16.32097 61.467542,-16.64247 -61.467542,-16.64248 61.553692,16.32097 -44.911219,-45.14658 45.146579,44.91122 -16.320968,-61.55369 16.642478,61.46754 16.64247,-61.46754 -16.32097,61.55369 45.14658,-44.91122 -44.91122,45.14658 61.5537,-16.32097 -61.46755,16.64248 61.46755,16.64247 -61.5537,-16.32097 44.91122,45.14658 -45.14658,-44.91122 16.32097,61.55369 z"
+           transform="matrix(1.86355,0.4993367,-0.4993367,1.86355,418.68963,-334.4072)" />
+        <circle
+           r="105.49536"
+           cy="602.64368"
+           cx="378.75571"
+           style="fill:#5bbabf;fill-opacity:1;stroke:none;stroke-width:0.76790494"
+           id="path4828" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 458.61122,555.46451 -78.65721,47.50024 -58.10296,-37.72812"
+           id="path4830"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccc" />
+        <circle
+           r="8.772584"
+           cy="603.50348"
+           cx="379.86502"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.7302959"
+           id="path4833" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4.26666689;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 380.35611,606.39905 42.77106,74.08165"
+           id="path4835"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="129.19"
+       inkscape:export-xdpi="129.19"
+       inkscape:export-filename="/home/krother/redestruktur.png"
+       transform="translate(212.63882,57.116149)"
+       id="g4798">
+      <rect
+         style="fill:#e6e6e6;stroke:none;stroke-width:0.6909036"
+         id="rect4747"
+         width="58.483002"
+         height="58.483002"
+         x="-71.243385"
+         y="4.8717394"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-ydpi="149.98193" />
+      <rect
+         style="opacity:0.98999999;fill:#5b88bf;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4749"
+         width="18.17433"
+         height="37.486897"
+         x="-71.243385"
+         y="25.867847" />
+      <rect
+         y="13.400105"
+         x="-53.069054"
+         height="49.954636"
+         width="20.3971"
+         id="rect4751"
+         style="opacity:0.98999999;fill:#5b88bf;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         style="opacity:0.98999999;fill:#5b88bf;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4753"
+         width="19.911581"
+         height="58.482983"
+         x="-32.671959"
+         y="4.8717394" />
+      <rect
+         style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.37658989;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4755"
+         width="58.483002"
+         height="8.805275"
+         x="-71.243385"
+         y="54.549473" />
+      <g
+         inkscape:export-ydpi="149.98193"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         transform="matrix(0.316574,0,0,0.316574,-229.97482,-211.9047)"
+         id="g4771">
+        <path
+           inkscape:export-ydpi="300.03"
+           inkscape:export-xdpi="300.03"
+           inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\title.png"
+           inkscape:connector-curvature="0"
+           id="path4757"
+           d="m 666.00845,830.28195 -26.64769,-34.63012 h -13.82011 l -44.1797,-9.95268 4.49867,6.59933 -0.44749,4.07908 32.84573,21.92818 -13.45167,46.58364 h 19.3807 l 6.64872,-26.03798 6.09183,25.48106 h 17.17015 l -9.85387,-40.5198 19.35022,21.82225 z"
+           style="fill:#5bbabf;fill-opacity:1;stroke:#000000;stroke-width:1.05380189"
+           sodipodi:nodetypes="ccccccccccccccc" />
+        <g
+           id="g4769"
+           transform="translate(6.2335483,0.55729083)">
+          <g
+             id="g4761"
+             transform="matrix(0.76424692,0,0,0.76424692,153.24097,572.29165)">
+            <circle
+               r="17.282948"
+               cy="271.84982"
+               cx="618.22211"
+               id="circle4759"
+               style="fill:#5bbabf;fill-opacity:1;stroke:#000000;stroke-width:1.06666672;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          </g>
+          <g
+             transform="translate(0,2.5765862)"
+             id="g4767">
+            <path
+               style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.53865653;stroke-linecap:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+               d="m 624.5,777.8 c 0,-1.10127 -0.8654,-2 -1.96667,-2 h -2.6 c -1.10127,0 -2,0.89873 -2,2 v 1.8 c 0,1.10128 0.89873,2 2,2 h 2.6 c 1.10127,0 1.96667,-0.89872 1.96667,-2 v -1.8 m 1.73333,-0.0667 V 779.5 c 0,1.07068 0.86267,1.93333 1.93334,1.93333 h 2.7 c 1.07066,0 1.93333,-0.86265 1.93333,-1.93333 v -1.76667 c 0,-1.07066 -0.86267,-1.93333 -1.93333,-1.93333 h -2.7 c -1.07067,0 -1.93334,0.86267 -1.93334,1.93333"
+               id="path4763"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="csssssssccsssssssc" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:1.04967451px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 613.26058,773.9018 4.9034,1.97403 h 14.40719 l 5.45138,-1.88795"
+               id="path4765"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cccc" />
+          </g>
+        </g>
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4779"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#5bbabf;fill-opacity:1;stroke:#2c89a0;stroke-width:1.88976383;stroke-opacity:1"
+         transform="matrix(0.26458333,0,0,0.26458333,-192.26921,-137.10927)"><flowRegion
+           id="flowRegion4775"
+           style="fill:#5bbabf;fill-opacity:1;stroke:#2c89a0;stroke-width:1.88976383;stroke-opacity:1"><rect
+             id="rect4773"
+             width="188.39345"
+             height="117.1777"
+             x="476.28693"
+             y="629.56525"
+             style="fill:#5bbabf;fill-opacity:1;stroke:#2c89a0;stroke-width:1.88976383;stroke-opacity:1" /></flowRegion><flowPara
+           id="flowPara4777"
+           style="font-weight:bold;fill:#5bbabf;fill-opacity:1;stroke:#2c89a0;stroke-width:1.88976383;stroke-opacity:1">A</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-173.03517,-148.46822)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#5bbabf;fill-opacity:1;stroke:#2c89a0;stroke-width:1.88976383;stroke-opacity:1"
+         id="flowRoot4787"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4783"
+           style="fill:#5bbabf;fill-opacity:1;stroke:#2c89a0;stroke-width:1.88976383;stroke-opacity:1"><rect
+             y="629.56525"
+             x="476.28693"
+             height="117.1777"
+             width="188.39345"
+             id="rect4781"
+             style="fill:#5bbabf;fill-opacity:1;stroke:#2c89a0;stroke-width:1.88976383;stroke-opacity:1" /></flowRegion><flowPara
+           style="font-weight:bold;fill:#5bbabf;fill-opacity:1;stroke:#2c89a0;stroke-width:1.88976383;stroke-opacity:1"
+           id="flowPara4785">B</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4796"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#5bbabf;fill-opacity:1;stroke:#2c89a0;stroke-width:1.88976383;stroke-opacity:1"
+         transform="matrix(0.26458333,0,0,0.26458333,-152.54235,-158.3572)"><flowRegion
+           id="flowRegion4792"
+           style="fill:#5bbabf;fill-opacity:1;stroke:#2c89a0;stroke-width:1.88976383;stroke-opacity:1"><rect
+             id="rect4790"
+             width="188.39345"
+             height="117.1777"
+             x="476.28693"
+             y="629.56525"
+             style="fill:#5bbabf;fill-opacity:1;stroke:#2c89a0;stroke-width:1.88976383;stroke-opacity:1" /></flowRegion><flowPara
+           id="flowPara4794"
+           style="font-weight:bold;fill:#5bbabf;fill-opacity:1;stroke:#2c89a0;stroke-width:1.88976383;stroke-opacity:1">C</flowPara></flowRoot>    </g>
+    <g
+       inkscape:export-ydpi="130.29428"
+       inkscape:export-xdpi="130.29428"
+       inkscape:export-filename="/home/krother/Desktop/Speechproject/Redesalon/lieblingsthema.png"
+       transform="matrix(-1,0,0,1,212.12598,60.611993)"
+       id="g4842">
+      <rect
+         inkscape:export-ydpi="149.98193"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         y="74.518394"
+         x="-70.730545"
+         height="58.483002"
+         width="58.483002"
+         id="rect4824"
+         style="fill:#e6e6e6;stroke:none;stroke-width:0.69090354"
+         transform="scale(-1,1)" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\heart.png"
+         sodipodi:nodetypes="ssscsczscs"
+         inkscape:connector-curvature="0"
+         id="path4826"
+         d="m 36.746631,82.939037 c -5.041695,0 -9.124808,2.394782 -9.185875,9.185871 -0.02704,3.007134 3.549763,7.335976 7.544109,11.226392 0.863673,0.8412 -3.287051,11.50314 -3.287051,11.50314 0,0 7.857756,-7.33759 8.763431,-6.57623 2.952737,2.48222 5.237159,4.16971 5.237159,4.16971 0,0 18.132089,-13.933286 18.246222,-20.323012 0.113994,-6.389739 -4.064282,-9.185871 -9.106004,-9.185871 -5.041689,0 -9.105996,4.144152 -9.105996,9.185871 0,-5.041719 -4.06427,-9.185871 -9.105995,-9.185871 z"
+         style="fill:#5bbabf;fill-opacity:1;stroke:#2c89a0;stroke-width:2.5678587;stroke-opacity:1" />
+      <g
+         transform="matrix(0.14343934,0,0,0.14343934,182.57291,-11.572058)"
+         id="g4838"
+         clip-path="url(#clipPath2565)">
+        <g
+           id="g4831"
+           transform="matrix(-4.1421246,0.57141753,0.57141753,4.1421246,2458.0447,-852.37924)"
+           inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+           inkscape:export-xdpi="149.98193"
+           inkscape:export-ydpi="149.98193"
+           style="fill:#2c89a0;fill-opacity:1;stroke:#000000;stroke-width:0.89693666">
+          <path
+             inkscape:export-ydpi="300.03"
+             inkscape:export-xdpi="300.03"
+             inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\title.png"
+             inkscape:connector-curvature="0"
+             id="path4829"
+             d="m 901.07373,296.00763 c -3.01378,1.74 -4.06012,2.86113 -5.0379,5.53534 -0.10989,0.30054 -4.03201,-0.0896 -4.37299,1.40277 -0.51696,2.26267 3.33104,3.27249 3.31243,3.61493 -0.12134,2.23439 0.52311,3.6864 1.72515,5.76839 10.04093,13.86761 26.64664,-0.85972 20.688,-11.94423 -3.29883,-5.71374 -10.60095,-7.67603 -16.31469,-4.3772 z"
+             style="fill:#2c89a0;fill-opacity:1;stroke:#000000;stroke-width:0.95673245"
+             sodipodi:nodetypes="ssssccs" />
+        </g>
+        <g
+           id="g4836"
+           transform="matrix(-4.0515864,0,0,4.0515864,2551.3691,-307.21763)"
+           inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+           inkscape:export-xdpi="149.98193"
+           inkscape:export-ydpi="149.98193"
+           style="fill:#2c89a0;fill-opacity:1;stroke:#000000;stroke-width:0.89693666">
+          <path
+             sodipodi:nodetypes="cccccccccccccc"
+             style="fill:#2c89a0;fill-opacity:1;stroke:#000000;stroke-width:0.95673245"
+             d="M 937.24778,350.97927 913.0547,319.53905 h -12.54709 l -37.40155,20.69904 0.0136,14.37715 30.77605,-14.50901 -12.21259,42.29266 h 17.59548 l 6.03628,-23.63953 5.53068,23.13391 h 15.58856 l -8.9462,-36.78738 17.5678,19.81213 z"
+             id="path4834"
+             inkscape:connector-curvature="0"
+             inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\title.png"
+             inkscape:export-xdpi="300.03"
+             inkscape:export-ydpi="300.03" />
+        </g>
+      </g>
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.32774818px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 28.457702,123.77188 c -0.303082,1.00401 -0.713231,1.90095 -1.404638,2.51664 -0.944357,0.0129 -2.223662,-1.35121 -3.511588,-2.75075 1.618375,0.11471 3.123027,0.4341 4.916226,0.23411 z"
+         id="path4840"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g1003"
+       transform="translate(59.870217,-54.853718)"
+       inkscape:export-xdpi="130.28999"
+       inkscape:export-ydpi="130.28999">
+      <rect
+         inkscape:export-ydpi="149.98193"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         y="153.41286"
+         x="11.48433"
+         height="58.483002"
+         width="58.483002"
+         id="rect143"
+         style="fill:#e6e6e6;stroke:none;stroke-width:0.6909036" />
+      <g
+         clip-path="url(#clipPath4568)"
+         inkscape:export-ydpi="149.82301"
+         inkscape:export-xdpi="149.82301"
+         transform="matrix(2.164267,0,0,2.164267,-51.429868,-150.83891)"
+         id="g392">
+        <rect
+           inkscape:export-ydpi="149.98193"
+           inkscape:export-xdpi="149.98193"
+           inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+           y="158.39604"
+           x="29.069517"
+           height="9.2056265"
+           width="27.022081"
+           id="rect360"
+           style="fill:#b3b3b3;stroke:none;stroke-width:0.18031673" />
+        <g
+           id="g378"
+           transform="translate(-32.625532,-7.9375)">
+          <path
+             inkscape:export-ydpi="149.98193"
+             inkscape:export-xdpi="149.98193"
+             inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             id="path362"
+             d="m 63.964135,170.46005 19.5465,-40.69985 h 7.11951 l -4.1852,40.69985 z"
+             style="opacity:0.9;fill:#ffe680;fill-opacity:1;stroke:none;stroke-width:0.28222224" />
+          <ellipse
+             ry="3.1716285"
+             rx="11.240405"
+             cy="170.46004"
+             cx="75.204536"
+             inkscape:export-ydpi="149.98193"
+             inkscape:export-xdpi="149.98193"
+             inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+             id="ellipse364"
+             style="fill:#ead687;fill-opacity:1;stroke:#ffdd55;stroke-width:0.10920757;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <g
+             inkscape:export-ydpi="149.98193"
+             inkscape:export-xdpi="149.98193"
+             inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+             transform="matrix(0.19559527,0,0,0.19559527,3.5782387,48.47803)"
+             id="g376">
+            <g
+               style="stroke:#000000;stroke-width:0.89693666"
+               inkscape:export-ydpi="300.03"
+               inkscape:export-xdpi="300.03"
+               inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\pull.png"
+               transform="matrix(-0.95753775,0,0,0.95753775,1232.3088,256.06019)"
+               id="g368">
+              <path
+                 sodipodi:nodetypes="sssscccs"
+                 style="fill:#5bbabf;fill-opacity:1;stroke:#000000;stroke-width:1.11396825"
+                 d="m 901.41303,302.00934 c -2.17613,1.25639 -2.93165,2.06592 -3.63768,3.99686 -0.0793,0.21701 -1.85757,0.63779 -2.10378,1.71543 -0.37328,1.63379 1.35143,1.66041 1.338,1.90767 -0.0876,1.61338 -0.20775,3.36437 0.6602,4.86769 2.13611,2.95019 3.62987,2.72331 6.63645,2.71293 3.76616,-0.0179 10.16469,-5.36998 8.53577,-11.57159 -1.91361,-5.29659 -7.30328,-6.01096 -11.42896,-3.62899 z"
+                 id="path366"
+                 inkscape:connector-curvature="0"
+                 inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\title.png"
+                 inkscape:export-xdpi="300.03"
+                 inkscape:export-ydpi="300.03" />
+            </g>
+            <g
+               style="stroke:#000000;stroke-width:0.89693666"
+               inkscape:export-ydpi="300.03"
+               inkscape:export-xdpi="300.03"
+               inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\pull.png"
+               transform="matrix(-0.92782091,0,0,0.92782091,1206.3797,264.98789)"
+               id="g374">
+              <path
+                 inkscape:export-ydpi="300.03"
+                 inkscape:export-xdpi="300.03"
+                 inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\title.png"
+                 inkscape:connector-curvature="0"
+                 id="path370"
+                 d="m 913.07226,347.11947 c 0.97383,6.30684 8.93268,16.68071 8.93268,16.68071 l -6.56236,-0.0225 0.84719,20.159 10.1443,4.45055 h -15.58856 l -4.25186,-24.53111 -3.15866,-0.0514 -4.15644,24.74637 -17.59548,-0.1709 11.70665,-4.35763 2.09048,-19.88332 -9.14608,0.14319 c 0,0 7.3486,-11.00717 8.66355,-17.25062 l 18.07459,0.0877 c -0.91615,-5.93325 3.20721,-17.72283 3.20721,-17.72283 l 23.36814,-7.98116 3.40051,-8.13841 -29.99342,6.26198 h -12.54709 l -37.40155,-6.36921 3.15539,7.36841 27.90275,7.75926 c 0,0 2.14843,12.49083 0.83347,18.73429"
+                 style="fill:#5bbabf;fill-opacity:1;stroke:#000000;stroke-width:1.14964712"
+                 sodipodi:nodetypes="cccccccccccccccccccccccc" />
+              <path
+                 style="fill:none;stroke:#000000;stroke-width:1.14964712px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="m 895.48024,364.13922 19.96238,-0.36154"
+                 id="path372"
+                 inkscape:connector-curvature="0" />
+            </g>
+          </g>
+        </g>
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.56444448"
+           id="rect380"
+           width="47.720531"
+           height="47.836739"
+           x="20.711279"
+           y="121.89116"
+           inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+           inkscape:export-xdpi="149.98193"
+           inkscape:export-ydpi="149.98193" />
+        <flowRoot
+           inkscape:export-ydpi="149.98193"
+           inkscape:export-xdpi="149.98193"
+           inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+           style="font-style:normal;font-weight:normal;font-size:12.80000019px;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+           id="flowRoot390"
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,-120.65742,64.853452)"><flowRegion
+             style="font-family:sans-serif;stroke-width:1.06666672"
+             id="flowRegion384"><rect
+               style="font-family:sans-serif;stroke-width:1.13777781"
+               y="224.19037"
+               x="546.45648"
+               height="44.88916"
+               width="155.99394"
+               id="rect382" /></flowRegion><flowPara
+             style="font-style:normal;font-weight:bold;font-size:17.06666756px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Italic';text-align:center;letter-spacing:0.06400006px;text-anchor:middle;stroke-width:1.06666672"
+             id="flowPara388">fit für die</flowPara><flowPara
+             id="flowPara1552"
+             style="font-style:normal;font-weight:bold;font-size:17.06666756px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Italic';text-align:center;letter-spacing:0.06400006px;text-anchor:middle;stroke-width:1.06666672">große Bühne</flowPara></flowRoot>      </g>
+      <path
+         sodipodi:nodetypes="cssc"
+         inkscape:connector-curvature="0"
+         id="path145"
+         d="m 40.55815,167.14041 c -1.482672,-0.0154 -2.368508,3.84746 -2.939964,3.84201 -0.400674,-0.004 0.0022,-0.84352 -0.0065,-1.67002 -0.0077,-0.73663 -0.445334,-1.45591 -0.461256,-1.67085"
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g5577"
+       transform="matrix(0.26458333,0,0,0.26458333,102.35148,-8.547578)"
+       inkscape:export-filename="/home/krother/Desktop/Speechproject/Redesalon/hilfe_orga.png"
+       inkscape:export-xdpi="130.28999"
+       inkscape:export-ydpi="130.28999">
+      <g
+         id="g1047"
+         transform="translate(-616.19306,125.25892)">
+        <flowRoot
+           style="font-style:normal;font-weight:normal;font-size:12.80000019px;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot3323-3"
+           xml:space="preserve"
+           transform="matrix(0.44841106,0,0,0.44841106,433.85773,496.77374)"><flowRegion
+             style="font-family:sans-serif;stroke-width:1.06666672px"
+             id="flowRegion3325-6"><rect
+               style="font-size:17.06666756px;font-family:sans-serif;stroke-width:1.13777781px"
+               y="374.19867"
+               x="386.82111"
+               height="65.727257"
+               width="61.417274"
+               id="rect3327-7" /></flowRegion><flowPara
+             style="font-size:17.06666756px;line-height:1.25;font-family:sans-serif;stroke-width:1.06666672px"
+             id="flowPara3329-5"> </flowPara></flowRoot>        <rect
+           inkscape:export-ydpi="149.98193"
+           inkscape:export-xdpi="149.98193"
+           inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+           y="143.85191"
+           x="229.43483"
+           height="58.483002"
+           width="58.483002"
+           id="rect4075"
+           style="fill:#e6e6e6;stroke:none;stroke-width:0.69090354"
+           transform="matrix(3.7795276,0,0,3.7795276,-368.116,12.305807)" />
+        <rect
+           style="fill:#e6e6e6;stroke:none;stroke-width:0.6909036"
+           id="rect4103"
+           width="58.483002"
+           height="58.483002"
+           x="229.43483"
+           y="143.8519"
+           inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+           inkscape:export-xdpi="149.98193"
+           inkscape:export-ydpi="149.98193"
+           transform="matrix(3.7795276,0,0,3.7795276,-368.116,12.305807)" />
+        <circle
+           style="fill:#5bbabf;fill-opacity:1;stroke:#5b88bf;stroke-width:17.06666565;stroke-opacity:1"
+           id="path5569"
+           cx="609.71167"
+           cy="670.15533"
+           r="87.455109" />
+        <g
+           id="g4047"
+           transform="matrix(1.2473092,0,0,1.2473092,1106.8359,212.6094)">
+          <rect
+             ry="0"
+             y="350.54724"
+             x="-432.33609"
+             height="57.513889"
+             width="57.513889"
+             id="rect4043"
+             style="fill:#999999;stroke:#000000;stroke-width:5.8482914;stroke-linejoin:round" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4045"
+             d="m -419.14999,367.38055 13.74722,26.09167 40.11944,-69.29722"
+             style="fill:none;stroke:#000000;stroke-width:7.79772186;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4854"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,6.0218039,76.439083)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4856"><rect
+           id="rect4858"
+           width="349.51279"
+           height="62.629452"
+           x="268.70056"
+           y="292.17432" /></flowRegion><flowPara
+         id="flowPara4860"
+         style="font-weight:bold;font-size:21.33333397px">Stelle Dich vor</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,66.805033,114.39135)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4868"
+       xml:space="preserve"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4864"><rect
+           y="292.17432"
+           x="268.70056"
+           height="62.629452"
+           width="349.51279"
+           id="rect4862" /></flowRegion><flowPara
+         style="font-weight:bold;font-size:21.33333397px"
+         id="flowPara4866">Dein Lieblingsthema</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,6.3787148,5.3453906)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4876"
+       xml:space="preserve"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4872"><rect
+           y="292.17432"
+           x="268.70056"
+           height="62.629452"
+           width="349.51279"
+           id="rect4870" /></flowRegion><flowPara
+         style="font-weight:bold;font-size:21.33333397px"
+         id="flowPara4874">Füllwortzähler</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4884"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,78.200032,41.629194)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4880"><rect
+           id="rect4878"
+           width="349.51279"
+           height="62.629452"
+           x="268.70056"
+           y="292.17432" /></flowRegion><flowPara
+         id="flowPara4882"
+         style="font-weight:bold;font-size:21.33333397px">Redestruktur</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-63.420595,41.629194)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4892"
+       xml:space="preserve"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4888"><rect
+           y="292.17432"
+           x="268.70056"
+           height="62.629452"
+           width="349.51279"
+           id="rect4886" /></flowRegion><flowPara
+         style="font-weight:bold;font-size:21.33333397px"
+         id="flowPara4890">Kernbotschaft</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4900"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-60.402911,114.96048)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4896"><rect
+           id="rect4894"
+           width="349.51279"
+           height="62.629452"
+           x="268.70056"
+           y="292.17432" /></flowRegion><flowPara
+         id="flowPara4898"
+         style="font-weight:bold;font-size:21.33333397px">Zeitnehmer</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,1.118738,150.74001)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4908"
+       xml:space="preserve"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4904"><rect
+           y="292.17432"
+           x="268.70056"
+           height="62.629452"
+           width="349.51279"
+           id="rect4902" /></flowRegion><flowPara
+         style="font-weight:bold;font-size:21.33333397px"
+         id="flowPara4906">Hilfe bei der Orga</flowPara></flowRoot>    <image
+       y="226.28152"
+       x="167.81366"
+       id="image4988"
+       xlink:href="data:image/png;base64,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
+"
+       preserveAspectRatio="none"
+       height="12.344762"
+       width="35.04319"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

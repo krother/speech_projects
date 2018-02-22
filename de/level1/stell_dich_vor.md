@@ -1,6 +1,8 @@
 
 # Stell Dich vor
 
+![](bilder/stelle_dich_vor.png)
+
 ## Ziel
 
 Halte eine Rede über Dich selbst.

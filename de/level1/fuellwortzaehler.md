@@ -1,6 +1,8 @@
 
 # Füllwortzähler/in
 
+![](bilder/fuellwortzaehler.png)
+
 Eine gute Rede kommt ohne die Verwendung von Füllwörtern aus.
 Als Äh-Zähler/in wachst Du über die Verwendung von Füllwörtern wie z.B. *„Äh“* oder *„Hmm“* und führst darüber Buch.
 Diese Aufgabe ist anspruchsvoll und erfordert eine Menge Konzentration.

@@ -1,5 +1,7 @@
 
-# Die Redeabsicht
+# Die Kernbotschaft
+
+![](bilder/kernbotschaft.png)
 
 ## Ziel
 
@@ -28,7 +30,7 @@ Wenn Die Rede gut werden soll, sollten sowohl Du als Redner/in und Dein Publikum
 
 Meistens ist die Redeabsicht eine von vieren: **Informieren**, **Inspirieren**, **Überzeugen** und **Unterhalten**:
 
-![](redeabsichten_DE.png)
+![](bilder/redeabsichten_DE.png)
 
 ### Informieren
 

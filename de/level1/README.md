@@ -3,6 +3,8 @@
 
 Dieses Handbuch enthält die ersten 7 Projekte, bei denen Du Dich mit der Bühne vertraut machen kannst. Sie sind dazu gedacht, Deine Fähigkeiten als Redner voran zu bringen, z.B. im Rahmen eines Kurses oder eines Ausbildungsprogramms für Redeclubs.
 
+![](bilder/icons_level1.png)
+
 
 ## Autoren
 
@@ -17,4 +19,4 @@ Dieses Dokument ist unter den Bedingungen der Creative Commons Attribution-NonCo
 
 Details unter [www.creativecommons.org](https://creativecommons.org).
 
-![](cc_by_nc_sa.png)
+![](bilder/cc_by_nc_sa.png)
