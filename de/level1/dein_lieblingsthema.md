@@ -9,7 +9,7 @@ Sprich für eine kurze Zeit über Dein Lieblingsthema.
 
 ## Zeit
 
-2-4 Minuten
+2-6 Minuten
 
 ## Hintergrund
 
