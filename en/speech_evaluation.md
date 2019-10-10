@@ -1,7 +1,7 @@
 
 # Speech Evaluation Workshop
 
-![9 Evaluation Roles](9evaluation_roles.png)
+![9 Evaluation Roles](../images/9evaluation_roles.png)
 
 ## Goal
 

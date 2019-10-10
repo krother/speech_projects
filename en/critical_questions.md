@@ -3,11 +3,11 @@
 
 *my workout with 7 speech projects – by Kristian Rother*
 
-![Workout](critical_question_workout.png)
+![Workout](../images/critical_question_workout.png)
 
 ## What is a speech project workout?
 
-A series of 7 educational challenges that help you to improve your communication skills. 
+A series of 7 educational challenges that help you to improve your communication skills.
 
 ## Why are you doing a workout on critical questions?
 

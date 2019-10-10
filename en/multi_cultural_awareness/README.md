@@ -3,7 +3,7 @@
 
 **by Armando Cristofori and Barbara Bosch**
 
-![multi-cultural awareness](multicultural.png)
+![multi-cultural awareness](../../images/multicultural.png)
 
 ## License
 
@@ -11,4 +11,4 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 
 See [www.creativecommons.org](https://creativecommons.org) for details.
 
-![](cc-by-nc-sa.png)
+![](../../images/cc-by-nc-sa.png)

@@ -24,7 +24,7 @@ This manual contains projects to rehearse public speaking, meeting facilitation 
 * [Speech Structure](en/speaking_basics/structure.md)
 * [Speech Purpose](en/speaking_basics/speech_purpose.md)
 * [Rhetorical Devices](en/speaking_basics/rhetorical_devices.md)
-* [Giving Speech Evaluations](en/speaking_basics/evaluations.md)
+* [Giving Speech Evaluations](en/speaking_basics/evaluation.md)
 
 ### Meeting Facilitation
 
@@ -47,17 +47,17 @@ This manual contains projects to rehearse public speaking, meeting facilitation 
 
 ### Workshops
 
-* [Speech Evaluation Workshop](en/workshops/speech_evaluation.md)
-* [Harvesting Ideas and Knowledge](en/workshops/harvesting_ideas.md)
+* [Speech Evaluation Workshop](en/speech_evaluation.md)
+* [Harvesting Ideas and Knowledge](en/harvesting_ideas.md)
 * [Building Multi-cultural Awareness](en/multi_cultural_awareness/whats_your_position.md)
 
 
 ### Other
 
+* [List of Speaking Clubs in Berlin](https://topgunspeaking.com/reden-ueben-debattierclubs-rhetorik-clubs/)
 * [Frequently Asked Questions](en/faq.md)
-* [Workout: Critical Questions](en/workouts/critical_questions.md)
+* [Workout: Critical Questions](en/critical_questions.md)
 * [Contributing](en/contributions.md)
-
 ----
 
 ## Authors
@@ -67,7 +67,7 @@ Jörg Würster, Barbara Strauß, Harald von Treuenfels, Jasmin Touati, Raimo Gra
 
 ## License
 
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 You may use, share and modify it under the same conditions, but not use it commercially. See [www.creativecommons.org](https://creativecommons.org) for details.
 
