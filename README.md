@@ -57,7 +57,7 @@ This manual contains projects to rehearse public speaking, meeting facilitation 
 * [List of Speaking Clubs in Berlin](https://topgunspeaking.com/reden-ueben-debattierclubs-rhetorik-clubs/)
 * [Frequently Asked Questions](en/faq.md)
 * [Workout: Critical Questions](en/critical_questions.md)
-* [Contributing](en/contributions.md)
+* [Contributing](en/contributing.md)
 ----
 
 ## Authors
