@@ -5,7 +5,7 @@ I want to build a collection of speaking exercises that speaking
 clubs around the world can use for free. The educational material
 covers **speeches, meeting facilitation,** and **workshops**. For this idea to become reality, **I need your help**.
 
-![Contributing](../images/contributing.png)
+![Contributing](images/contributing.png)
 
 ## How to contribute?
 

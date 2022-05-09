@@ -1,7 +1,7 @@
 
 # The Lightning Talk
 
-![](../../images/lightning_talk.png)
+![](../images/lightning_talk.png)
 
 ## Your Goal
 

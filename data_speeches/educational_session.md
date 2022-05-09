@@ -1,7 +1,7 @@
 
 # The Educational Session
 
-![](../../images/educational_talk.png)
+![](../images/educational_talk.png)
 
 ## Your Goal
 

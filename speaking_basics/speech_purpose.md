@@ -28,7 +28,7 @@ If it is to be a good speech, both you **and** your audience should see value in
 
 Most of the time, the speech purpose is one out of four: **inform**, **inspire**, **persuade** and **entertain**:
 
-![](../../speech_purposes_EN.png)
+![](../images/speech_purposes_EN.png)
 
 ### Inform
 

@@ -3,7 +3,7 @@
 
 *my workout with 7 speech projects – by Kristian Rother*
 
-![Workout](../images/critical_question_workout.png)
+![Workout](images/critical_question_workout.png)
 
 ## What is a speech project workout?
 

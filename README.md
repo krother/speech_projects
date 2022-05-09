@@ -15,49 +15,50 @@ This manual contains projects to rehearse public speaking, meeting facilitation 
 
 ### Easy Speech Projects
 
-* [Things You like](en/easy_speeches/things_you_like.md)
-* [Introduce Yourself](en/easy_speeches/introduce_yourself.md)
-* [Present an Article](en/easy_speeches/present_an_article.md)
+* [Things You like](easy_speeches/things_you_like.md)
+* [Introduce Yourself](easy_speeches/introduce_yourself.md)
+* [Present an Article](easy_speeches/present_an_article.md)
 
 ### Speaking Basics
 
-* [Speech Structure](en/speaking_basics/structure.md)
-* [Speech Purpose](en/speaking_basics/speech_purpose.md)
-* [Rhetorical Devices](en/speaking_basics/rhetorical_devices.md)
-* [Giving Speech Evaluations](en/speaking_basics/evaluation.md)
+* [Speech Structure](speaking_basics/structure.md)
+* [Speech Purpose](speaking_basics/speech_purpose.md)
+* [Rhetorical Devices](speaking_basics/rhetorical_devices.md)
+* [Giving Speech Evaluations](speaking_basics/evaluation.md)
 
 ### Meeting Facilitation
 
-* [Icebreaker Activities](en/meeting_facilitation/icebreakers.md)
-* [Chairperson](en/meeting_facilitation/chairperson.md)
-* [Impromptu Speech Moderator](en/meeting_facilitation/impromptu_moderator.md)
-  * [Ideas for Impromptu Speeches](en/meeting_facilitation/ideas_impromptu.md)
-* [Timer](en/meeting_facilitation/timer.md)
-* [Filling Word Counter](en/meeting_facilitation/filling_words.md)
-* [Word Watcher](en/meeting_facilitation/word_watcher.md)
-* [Listener](en/meeting_facilitation/listener.md)
+* [Icebreaker Activities](meeting_facilitation/icebreakers.md)
+* [Chairperson](meeting_facilitation/chairperson.md)
+* [Impromptu Speech Moderator](meeting_facilitation/impromptu_moderator.md)
+  * [Ideas for Impromptu Speeches](meeting_facilitation/ideas_impromptu.md)
+* [Timer](meeting_facilitation/timer.md)
+* [Filling Word Counter](meeting_facilitation/filling_words.md)
+* [Word Watcher](meeting_facilitation/word_watcher.md)
+* [Listener](meeting_facilitation/listener.md)
 
 ### Speech Projects for Data Scientists
 
-* [The Lightning Talk](en/data_speeches/lightning_talk.md)
-* [The Live Demo](en/data_speeches/live_demo.md)
-* [The Educational Session](en/data_speeches/educational_session.md)
-* [Selling an Idea](en/data_speeches/selling_an_idea.md)
-* [The Project Presentation](en/data_speeches/project_presentation.md)
+* [The Lightning Talk](data_speeches/lightning_talk.md)
+* [The Live Demo](data_speeches/live_demo.md)
+* [The Educational Session](data_speeches/educational_session.md)
+* [Selling an Idea](data_speeches/selling_an_idea.md)
+* [The Project Presentation](data_speeches/project_presentation.md)
 
 ### Workshops
 
-* [Speech Evaluation Workshop](en/speech_evaluation.md)
-* [Harvesting Ideas and Knowledge](en/harvesting_ideas.md)
-* [Building Multi-cultural Awareness](en/multi_cultural_awareness/whats_your_position.md)
+* [Speech Evaluation Workshop](speech_evaluation.md)
+* [Harvesting Ideas and Knowledge](harvesting_ideas.md)
+* [Building Multi-cultural Awareness](multi_cultural_awareness/whats_your_position.md)
 
 
 ### Other
 
 * [List of Speaking Clubs in Berlin](https://topgunspeaking.com/reden-ueben-debattierclubs-rhetorik-clubs/)
-* [Frequently Asked Questions](en/faq.md)
-* [Workout: Critical Questions](en/critical_questions.md)
-* [Contributing](en/contributing.md)
+* [Frequently Asked Questions](faq.md)
+* [Workout: Critical Questions](critical_questions.md)
+* [Contributing](contributing.md)
+
 ----
 
 ## Authors
