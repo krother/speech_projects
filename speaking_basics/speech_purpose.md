@@ -5,15 +5,13 @@
 
 Give a speech with a clear purpose you planned in advance.
 
-## Background
-
-### A speech is for the audience
+## A speech is for the audience
 
 Imagine your presentation ended a moment ago. You receive applause, leave the stage and that's it. Is it worth investing a lot of time into preparing? Did you consider that your audience is investing time as well? With an audience of 30 people, a 20-minute presentation accumulates to 10 hours. It is up to you to make this time well spent.
 
 Therefore, the first step in speech preparation is to consider the interests of the audience. What kind of people will be there? What kind of expertise do they have? What are they interested in? What opinions are predominant? The more you are aware of the *value* you are giving your audience, the stronger the impactfo your speech will be.
 
-### A speech is also for the speaker
+## A speech is also for the speaker
 
 Most speeches are not given out of altruism. Your speeches don't need to be an exception. Why would *you* like to give the speech? Frequent, honest answers include:
 
@@ -26,7 +24,7 @@ If it is to be a good speech, both you **and** your audience should see value in
 
 ## What kind of speech purposes are there?
 
-Most of the time, the speech purpose is one out of four: **inform**, **inspire**, **persuade** and **entertain**:
+Most of the time, the speech purpose is one out of four: **inform, persuade, inspire** and **entertain**
 
 ![](../images/speech_purposes_EN.png)
 
@@ -66,8 +64,3 @@ The goal of this project is to decide for *one* speech purpose, and create a spe
 * Which parts of the speech did support the speech purpose?
 * Which parts of the speech distracted from the speech purpose?
 * How could the speech purpose be made clearer?
-
-
-## Authors
-
-Based on text written by Magdalena Rother and Ulrike Münzner. Edited by Kristian Rother. Available under the conditions of the Creative Commons Attribution Non-commercial Share-alike License 4.0.

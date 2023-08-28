@@ -3,6 +3,9 @@
 
 **by Barbara Bosch**
 
+![](../images/multicultural.png)
+
+
 ## Goal
 
 Administer an exercise that activates participants, promotes group discussions and makes people aware of cultural diversity and differences in personalities.
